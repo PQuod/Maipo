@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="auteurs">
+	<div class="post-line-header">
+      <span class="line"></span>
+    </div>
+	<ul class="auteurs-list">
+		{%assign sorted_cats = site.categories | sort %}
+				{% for category in sorted_cats %}
+		<li><a href="../category/{{ category[0] | slugify }}">
+				{% assign my_array = category[0] | split: "-" %}
+				{{my_array | reverse | join: " "}}
+			</a></li>
+		{% endfor %}
+	</ul>
+		<div class="post-line-footer">
+      <span class="line"></span>
+    </div>
+</div>
+

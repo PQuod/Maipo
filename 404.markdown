@@ -1,0 +1,9 @@
+---
+layout: page
+permalink: /404.html
+---
+
+<h1>404</h1>
+
+Oups, ici ça ne mène nulle part.
+Mieux vaut <a href="../index.html">retourner à l'accueil</a>.
