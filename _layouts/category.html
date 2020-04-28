@@ -3,13 +3,15 @@ layout: page
 ---
 
 <h1 class="nom-auteur">{{ page.title }}</h1>
-
+<div class="bio-auteur">
 {{ content }}
+</div>
+<div class="liste-textes-auteur">
 
-<h2>Textes</h2>
 <ul>
     {% for post in site.categories[page.category] %}
-    <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <li class="liste-textes"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
     {% endfor %}
 
 </ul>
+</div>
