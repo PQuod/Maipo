@@ -73,7 +73,26 @@ font-size:1.2em;
 
 }
 
+.infobulle {
+  position: relative;  /* les .infobulle deviennent référents */
+}
 
+.infobulle:hover::after,
+.infobulle:focus::after {
+  content: attr(aria-label);  /* on affiche aria-label */
+  position: absolute;
+  border-radius: 10px;
+  top: 1.7em;
+  left:50%;  
+  background-color:cyan;
+  text-transform:uppercase;
+  font-weight:bold;
+  font-size:0.7em;
+  padding-left:5px;
+  padding-right:5px;
+  z-index: 1; 
+  white-space: nowrap;  
+}
 
 
   /**
