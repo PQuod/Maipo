@@ -32,8 +32,7 @@ layout: page
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "March" or month == "January" or month=="February" %}        
         <a class="titre-archives" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}   
-        </a>
+              {{ post.title | escape }}</a>
         <span class="auteur-archives">
         {%for item in post.categories%} 
               {% assign my_array = item | split: "-" %}
