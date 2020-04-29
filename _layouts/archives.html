@@ -12,7 +12,7 @@ layout: page
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "June" or month == "April" or month=="May" %}        
-        <a class="titre-archives" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <a class="titre-archives" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> &#9900; 
         <span class="auteur-archives">
               {%for item in post.categories%}
                 {% assign my_array = item | split: "-" %}
@@ -32,7 +32,7 @@ layout: page
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "March" or month == "January" or month=="February" %}        
         <a class="titre-archives" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}</a>
+              {{ post.title | escape }}</a> &#9900; 
         <span class="auteur-archives">
         {%for item in post.categories%} 
               {% assign my_array = item | split: "-" %}
