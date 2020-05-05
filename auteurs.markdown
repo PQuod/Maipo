@@ -1,6 +1,6 @@
 ---
-layout: auteurs
-title: Auteurs
-permalink: /auteurs/
+layout: artistes
+title: Artistes
+permalink: /artistes/
 ---
 
