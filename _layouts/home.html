@@ -6,21 +6,25 @@ layout: default
   <div class="textes-display">
   {% assign posts = site.posts %}
    {%- if posts.size > 0 -%}
+   
     <div class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts limit:15 -%} 
+
       <div class="apercu-post">
-      <a class="post-link" href="{{ post.url | relative_url }}">
-           <span class="post-title">{{ post.title | escape }} <br>  </span>
-      </a>     
-      <span class="post-author">
-        {%for item in post.categories%}
-          {% assign my_array = item | split: "-" %}
-        {{my_array | reverse | join: " " }} 
-        {% endfor%} 
-      </span>
-          </div> 
-          <span class="line"></span>     
+        <a class="post-link" href="{{ post.url | relative_url }}">
+             <span class="post-title">{{ post.title | escape }} <br>  </span>
+        </a>     
+        <span class="post-author">
+          {%for item in post.categories%}
+            {% assign my_array = item | split: "-" %}
+          {{my_array | reverse | join: " " }} 
+          {% endfor%} 
+        </span>
+      </div> 
+      
+      <span class="line"></span> 
+
       {%- endfor -%}
 
   {%- endif -%}
