@@ -5,44 +5,35 @@ layout: page
 <div class="archives">
   <h1>2020</h1>
 
-  <div class="trimestre">
-  <h2>T2</h2>
-{% for post in site.posts %}
-  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-  {% if year == "2020" %}
-    {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
-    {% if month == "June" or month == "April" or month=="May" %}        
-        <a class="titre-archives" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> &#9900; 
-        <span class="auteur-archives">
-              {%for item in post.categories%}
-                {% assign my_array = item | split: "-" %}
-                 {{my_array | reverse | join: " " }}
-           &#10039;
-          {% endfor%}
-        </span>
-    {% endif %}
-  {% endif %}
- {% endfor %}
- </div>
- <div class="trimestre">
-  <h2>T1</h2>
+   <div class="trimestre">
+  <h2>Tome 1</h2>
   {% for post in site.posts %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "March" or month == "January" or month=="February" %}        
         <a class="titre-archives" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}</a> &#9900; 
-        <span class="auteur-archives">
-        {%for item in post.categories%} 
-              {% assign my_array = item | split: "-" %}
-               {{my_array | reverse | join: " " }}
+              {{ post.title | escape }}</a>
             &#10039;
-          {% endfor%}</span>
     {% endif %}
   {% endif %}
  {% endfor %}
   </div>
+
+  <div class="trimestre">
+  <h2>Tome 2</h2>
+{% for post in site.posts %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if year == "2020" %}
+    {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
+    {% if month == "June" or month == "April" or month=="May" %}        
+        <a class="titre-archives" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> 
+           &#10039;
+    {% endif %}
+  {% endif %}
+ {% endfor %}
+ </div>
+
 </div>
 </article>
 
