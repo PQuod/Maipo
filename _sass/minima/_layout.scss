@@ -383,28 +383,29 @@ height:40px;
     margin-bottom:calc(var(--line-height)*3);
     }
 
-        .post-line-header .line {
-        width:80%;
+    .post-line-header .line {
+       width:95%;
         height: 30px;
-        border-bottom: 20px solid var (--custom-color);
+        border-bottom: 10px solid var(--custom-color);
         -webkit-transform:
             translateY(-20px)
             translateX(5px)
-            rotate(2deg); 
+                        rotate(2deg);
         position: absolute;
+        left:0;
     }
 
     .post-line-footer .line {
-        width:80%;
+       width:95%;
         height: 30px;
-        border-bottom: 20px solid var (--custom-color);
+        border-bottom: 10px solid var(--custom-color);
         -webkit-transform:
             translateY(-20px)
             translateX(5px)
-            rotate(2deg); 
+                        rotate(2deg);
         position: absolute;
+        left:0
     }
-
     .archives{
     margin:var(--line-height);
     }
