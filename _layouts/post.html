@@ -29,11 +29,10 @@ layout: page
       {%- endif -%}
       {%- if page.categories -%}
         {% for item in page.categories %}
-            <span class="p-author">&#9900; <a href="../category/{{ item | slugify }}">{% assign my_array = item | split: "-" %}
-        {{my_array | reverse | join: " " }}</a> &#9900;</span>
+            <span class="p-author"><a href="../category/{{ item | slugify }}">{% assign my_array = item | split: "-" %}
+        {{my_array | reverse | join: " " }}</a></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</h3>
-
   </footer>
 </article>
