@@ -161,7 +161,7 @@ margin-top:5px;
 
   .text-content{
   margin-bottom:calc(var(--line-height)*3);
-
+  font-family:var(--text-font);
   font-size:calc(var(--font-size)*1.2);
   line-height:calc(var(--line-height)*1.5);
   }
@@ -276,6 +276,7 @@ margin-top:5px;
 .bio-auteur{
   margin-bottom:calc(var(--line-height)*2);
   font-size:var(--font-size);
+  font-family:var(--text-font);
 }
 
 .liste-textes-auteur{
