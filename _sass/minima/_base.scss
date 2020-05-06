@@ -7,6 +7,7 @@
   --custom-color: cyan;
   --lines: linear-gradient(to top, cyan 50%, rgba(255,255,255,0) 50%);
   --text-width: 40em;
+  --text-font:serif;
 }
 
 
@@ -24,6 +25,11 @@
   --font-size:1.5em;
   --line-height:30px;
   --text-width:60em;
+}
+
+#typo-dys:checked,
+#typo-dys:checked ~ .theme-container {
+ --text-font:sans-serif;
 }
 
 * {
@@ -44,7 +50,7 @@ body {
 height:100%;
 display: flex;
 flex-direction:column;
-  font-family: serif;
+  font-family: var(--text-font);
   line-height:var(--line-height);
   font-size: var(--font-size);
   line-height: var(--line-height);
@@ -107,6 +113,23 @@ list-style-type: none;
   font-size: var(--font-size);
 }
 
+.typo-dys-label::before{
+  content: "TYPO DYS";
+  cursor:pointer;
+  font-weight:bold;
+  background-color:var(--custom-color);
+  padding:5px;
+  font-size: var(--font-size);
+}
+
+.typo-dys-checkbox:checked ~ .theme-container .typo-dys-label::before {
+  content: "TYPO SERIF";
+  font-weight:bold;
+  background-color:var(--custom-color);
+  padding:5px;
+  font-size: var(--font-size);
+}
+
 .sr-only {
   position: absolute;
   overflow: hidden;
@@ -118,3 +141,10 @@ list-style-type: none;
   border: 0;
   white-space: nowrap; /* 1. */
 }
+
+
+
+
+
+
+
