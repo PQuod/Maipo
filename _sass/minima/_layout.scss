@@ -60,6 +60,7 @@ font-size:calc(var(--font-size)*1.5);
 
 .fonctions{
 height:40px;
+margin-top:5px;
 }
 
 .fonc-liens{
@@ -69,29 +70,9 @@ height:40px;
 .fonc-liens a{
   font-size:var(--font-size);
   font-weight:bold;
-  padding-left:var(--line-height);
-}
-
-
-.infobulle {
-  position: relative; 
-}
-
-.infobulle:hover::after,
-.infobulle:focus::after {
-  content: attr(aria-label);  /* on affiche aria-label */
-  position: absolute;
-  border-radius: 10px;
-  top: 1.7em;
-  left:50%;  
-  background-color: var(--custom-color);
-  text-transform:uppercase;
-  font-weight:bold;
-  font-size:calc(var(--font-size)*0.8);
-  padding-left:5px;
-  padding-right:5px;
-  z-index: 1; /* pour s'afficher au dessus des éléments en position relative */
-  white-space: nowrap;  /* on interdit le retour à la ligne */
+  margin-left:5px;
+  background-color:var(--custom-color);
+  padding:5px;
 }
 
 
@@ -383,7 +364,7 @@ height:40px;
     margin-bottom:calc(var(--line-height)*3);
     }
 
-    .post-line-header .line {
+        .post-line-header .line {
        width:95%;
         height: 30px;
         border-bottom: 10px solid var(--custom-color);
@@ -406,6 +387,7 @@ height:40px;
         position: absolute;
         left:0
     }
+
     .archives{
     margin:var(--line-height);
     }
