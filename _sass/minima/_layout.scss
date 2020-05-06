@@ -117,7 +117,7 @@ margin-top:5px;
   background: var(--lines);
   background-repeat: no-repeat;
   background-size: 0 100%;
-  transition: background-size 0.5s 0s;
+
 }
 
 .post-link:hover {
@@ -134,7 +134,7 @@ margin-top:5px;
 
 .post-author{
   font-family:sans-serif;
-  font-size:1em;
+  font-size:var(--font-size);
   margin-bottom:var(--line-height);
 }
 
@@ -152,7 +152,6 @@ margin-top:5px;
   }
 
   article h1{
-  text-transform:uppercase;
   padding-top:calc(var(--line-height)*3);
     line-height:calc(var(--line-height)*2);
     font-size:calc(var(--font-size)*2);
@@ -162,6 +161,7 @@ margin-top:5px;
 
   .text-content{
   margin-bottom:calc(var(--line-height)*3);
+
   font-size:calc(var(--font-size)*1.2);
   line-height:calc(var(--line-height)*1.5);
   }
@@ -183,6 +183,7 @@ margin-top:5px;
   .post-footer h3{
     font-weight:normal;
     text-transform:uppercase;
+    font-size:var(--font-size);
   }
 
   .post-line-footer{
@@ -215,6 +216,7 @@ margin-top:5px;
 
   .archives h2{
   margin-bottom:var(--line-height);
+  font-size:calc(var(--font-size)*1.5);
   }
 
 
@@ -223,10 +225,15 @@ margin-top:5px;
   background-repeat: no-repeat;
   background-size: 0 100%;
   transition: background-size 0.5s 0s;
+  font-size:var(--font-size);
 }
 
 .titre-archives:hover {
   background-size: 100% 100%;
+}
+
+.archives-separator{
+  font-size:var(--font-size);
 }
 
 
@@ -240,8 +247,9 @@ margin-top:5px;
   font-family:sans-serif;
 }
 
-
-
+.list-auteurs{
+  line-height:var(--line-height);
+}
 .auteurs a{  
   background: var(--lines);
   background-repeat: no-repeat;
@@ -257,20 +265,30 @@ margin-top:5px;
 *Auteurs single
 */
 
+.fiche-auteur{
+  line-height:var(--line-height);
+}
+
 .nom-auteur{
   margin-bottom:var(--line-height);
 }
 
 .bio-auteur{
-  margin-bottom:var(--line-height);
+  margin-bottom:calc(var(--line-height)*2);
+  font-size:var(--font-size);
 }
 
 .liste-textes-auteur{
-  padding-bottom:calc(var(--line-height)*3);
+  padding-bottom:calc(var(--line-height)*2);
+}
+
+.liste-textes{
+  padding-bottom:var(--line-height);
 }
 
 .liste-textes a{
   font-family:sans-serif;
+  font-size:var(--font-size);
 }
 
 .liste-textes a:hover{
