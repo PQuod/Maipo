@@ -14,7 +14,7 @@ layout: page
     {% if month == "March" or month == "January" or month=="February" %}        
         <a class="titre-archives" href="{{ post.url | relative_url }}">
               {{ post.title | escape }}</a>
-            &#10039;
+            <span class="archives-separator">&#10039;</span>
     {% endif %}
   {% endif %}
  {% endfor %}
@@ -28,7 +28,7 @@ layout: page
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "June" or month == "April" or month=="May" %}        
         <a class="titre-archives" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> 
-           &#10039;
+          <span class="archives-separator">&#10039;</span>
     {% endif %}
   {% endif %}
  {% endfor %}
