@@ -66,12 +66,18 @@ list-style-type: none;
 
 
 .dark-mode-label::before {
-  content: "\263E";
+  content: "MODE NUIT";
   cursor:pointer;
+  font-weight:bold;
+  background-color:var(--custom-color);
+  padding:5px;
 }
 
 .dark-mode-checkbox:checked ~ .theme-container .dark-mode-label::before {
-  content: "\263C";
+  content: "MODE JOUR";
+  font-weight:bold;
+  background-color:var(--custom-color);
+  padding:5px;
 }
 
 .sr-only {
