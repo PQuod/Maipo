@@ -77,7 +77,7 @@ margin-top:5px;
 
 
 .line {
-        width: 38em;
+        width: var(--text-width);
         height: 30px;
         border-bottom: 10px solid var(--custom-color);
         -webkit-transform:
@@ -96,7 +96,7 @@ margin-top:5px;
   }
 
 .textes-display{
-  max-width:40em;
+  max-width:var(--text-width);
   margin:auto;
   margin-bottom:calc(var(--line-height)*4);
 }
@@ -146,7 +146,7 @@ margin-top:5px;
   */
 
   article{
-  max-width:40em;
+  max-width:var(--text-width);
   margin:auto;
   margin-bottom:calc(var(--line-height)*2);
   }
@@ -198,7 +198,7 @@ margin-top:5px;
   */
 
   .archives{
-  max-width:40em;
+  max-width:var(--text-width);
   margin:auto;
   text-align:justify;
   line-height:calc(var(--line-height)*1.5);
@@ -242,7 +242,7 @@ margin-top:5px;
   */
 
 .auteurs{
-  max-width:40em;
+  max-width:var(--text-width);
   margin:auto;
   font-family:sans-serif;
 }
