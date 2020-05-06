@@ -6,6 +6,7 @@
   --a-font-color: #333333;
   --custom-color: cyan;
   --lines: linear-gradient(to top, cyan 50%, rgba(255,255,255,0) 50%);
+  --text-width: 40em;
 }
 
 
@@ -22,6 +23,7 @@
 #typo-plus:checked ~ .theme-container {
   --font-size:1.5em;
   --line-height:30px;
+  --text-width:60em;
 }
 
 * {
@@ -116,4 +118,3 @@ list-style-type: none;
   border: 0;
   white-space: nowrap; /* 1. */
 }
-
