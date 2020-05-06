@@ -9,13 +9,19 @@
 }
 
 
-input:checked,
-input:checked ~ .theme-container {
+#dark-mode:checked,
+#dark-mode:checked ~ .theme-container {
   --bg-color: #100e17;
   --font-color: #f2f2f2;
   --a-font-color: #f2f2f2;
   --custom-color: #ef1a63;
   --lines: linear-gradient(to top, #ef1a63 50%, rgba(255,255,255,0) 50%);
+}
+
+#typo-plus:checked,
+#typo-plus:checked ~ .theme-container {
+  --font-size:2em;
+  --line-height:40px;
 }
 
 * {
@@ -71,6 +77,7 @@ list-style-type: none;
   font-weight:bold;
   background-color:var(--custom-color);
   padding:5px;
+  font-size: var(--font-size);
 }
 
 .dark-mode-checkbox:checked ~ .theme-container .dark-mode-label::before {
@@ -78,6 +85,24 @@ list-style-type: none;
   font-weight:bold;
   background-color:var(--custom-color);
   padding:5px;
+  font-size: var(--font-size);
+}
+
+.typo-plus-label::before{
+  content: "TYPO +";
+  cursor:pointer;
+  font-weight:bold;
+  background-color:var(--custom-color);
+  padding:5px;
+  font-size: var(--font-size);
+}
+
+.typo-plus-checkbox:checked ~ .theme-container .typo-plus-label::before {
+  content: "TYPO -";
+  font-weight:bold;
+  background-color:var(--custom-color);
+  padding:5px;
+  font-size: var(--font-size);
 }
 
 .sr-only {
@@ -91,10 +116,4 @@ list-style-type: none;
   border: 0;
   white-space: nowrap; /* 1. */
 }
-
-
-
-
-
-
 
