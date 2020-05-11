@@ -102,7 +102,7 @@ margin-top:5px;
 }
 
 .page-title{
-  text-transform:none;
+  
   font-size:calc(var(--font-size)*1.5);
   margin-bottom:var(--line-height);
 }
@@ -114,6 +114,7 @@ margin-top:5px;
 
 
 .post-link{  
+text-transform:none;
   background: var(--lines);
   background-repeat: no-repeat;
   background-size: 0 100%;
