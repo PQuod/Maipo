@@ -83,7 +83,7 @@ list-style-type: none;
   content: "MODE NUIT";
   cursor:pointer;
   font-weight:bold;
-  background-color:var(--custom-color);
+  border:2px solid var(--custom-color);
   padding:5px;
   font-size: var(--font-size);
 }
@@ -91,7 +91,7 @@ list-style-type: none;
 .dark-mode-checkbox:checked ~ .theme-container .dark-mode-label::before {
   content: "MODE JOUR";
   font-weight:bold;
-  background-color:var(--custom-color);
+  border:2px solid var(--custom-color);
   padding:5px;
   font-size: var(--font-size);
 }
@@ -100,7 +100,7 @@ list-style-type: none;
   content: "TYPO +";
   cursor:pointer;
   font-weight:bold;
-  background-color:var(--custom-color);
+  border:2px solid var(--custom-color);
   padding:5px;
   font-size: var(--font-size);
 }
@@ -108,7 +108,7 @@ list-style-type: none;
 .typo-plus-checkbox:checked ~ .theme-container .typo-plus-label::before {
   content: "TYPO -";
   font-weight:bold;
-  background-color:var(--custom-color);
+  border:2px solid var(--custom-color);
   padding:5px;
   font-size: var(--font-size);
 }
