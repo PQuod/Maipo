@@ -6,7 +6,7 @@ layout: page
 
   <header class="post-header">
     <label class="typo-dys-label" aria-label="Typo sans-serif" for="typo-dys">
-      <span aria-label="Imprimer" class="test-label"><a href="">Imprimer</a></span>
+      <span aria-label="Imprimer" class="test-label"><a href="">Version imprimable</a></span>
     <h1>{{ page.title | escape }}</h1>
   </header>
 
@@ -19,16 +19,8 @@ layout: page
 
   <footer class="post-footer">
     <h3 class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_long_string }}">
-        {{ page.date | date_to_long_string }}
-      </time>
-      {%- if page.modified_date -%}
-        ~ 
-        {%- assign mdate = page.modified_date | date_to_long_string -%}
-        <time class="dt-modified" datetime="{{ mdate }}">
-          {{ mdate | date_to_long_string }}
-        </time>
-      {%- endif -%}
+        {% include date.html date=page.date %}
+        
       {%- if page.categories -%}
         {% for item in page.categories %}
             <span class="p-author"><a href="../category/{{ item | slugify }}">{% assign my_array = item | split: "-" %}
