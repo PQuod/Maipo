@@ -7,7 +7,7 @@ layout: page
 		<h1>Artistes</h1>
 		{%assign sorted_cats = site.categories | sort %}
 				{% for category in sorted_cats %}
-		<a class="titre-archives" href="../category/{{ category[0] | slugify }}">
+		<a class="a-bloc" href="../category/{{ category[0] | slugify }}">
 				{% assign my_array = category[0] | split: "-" %}
 				{{my_array | reverse | join: " "}}</a>
 			&#10039;
