@@ -4,8 +4,6 @@ title: À propos
 permalink: /about/
 ---
 
-# A propos
-
 INTERNET EXPLOREUR est un site de littérature qui accueille des textes. Il n'y a pas de comité éditorial mais il n'est possible d'y publier que si vous y avez été invité.
 
 ## Colophon
