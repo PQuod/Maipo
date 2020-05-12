@@ -92,6 +92,21 @@ left:-10px;
 
 }
 
+.line-post {
+        width: var(--text-width);
+        height: 30px;
+        border-bottom: 10px solid var(--custom-color);
+        -webkit-transform:
+            translateY(-20px)
+            translateX(5px)
+            rotate(2deg); 
+position:relative;
+top:var(--line-height);
+left:-10px;
+
+}
+
+
   /**
   * Contenu
   */
