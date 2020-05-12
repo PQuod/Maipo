@@ -13,9 +13,9 @@
 
 #dark-mode:checked,
 #dark-mode:checked ~ .theme-container {
-  --bg-color: #100e17;
-  --font-color: #f2f2f2;
-  --a-font-color: #f2f2f2;
+  --bg-color: #333;
+  --font-color: #eee;
+  --a-font-color: #eee;
   --custom-color: #ef1a63;
   --lines: linear-gradient(to top, #ef1a63 50%, rgba(255,255,255,0) 50%);
 }
@@ -61,22 +61,53 @@ flex-direction:column;
 }
 
 
-
 h1, h2, h3
 {
   font-family:sans-serif;
+    
+}
+
+h1{
+  font-size:calc(var(--font-size)*2);
+  line-height:calc(var(--line-height)*2);
+  margin-bottom:calc(var(--line-height)*2);
+}
+
+h2{
+   font-size:calc(var(--font-size)*1.5);
+  line-height:calc(var(--line-height)*1.5); 
+  margin-bottom:var(--line-height);
+}
+
+li{
+list-style-type: none;
+}
+
+label{
+  cursor:pointer;
+  font-weight:bold;
+  font-size: var(--font-size);
+  background: var(--lines);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  transition: background-size 0.5s 0s;
+  margin-right:20px;
+  padding-bottom:2px;
+}
+
+label:hover{
+    background-size: 0% 100%;
 }
 
 
 a {
   color:var(--a-font-color);
   text-decoration: none;
-  font-weight:bold;
-  font-family:sans-serif;
   background: var(--lines);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   transition: background-size 0.5s 0s;
+  font-family: var(--text-font);
 }
 
 a:hover {
@@ -84,84 +115,38 @@ a:hover {
   text-decoration:none;
 }
 
-li{
-list-style-type: none;
+/**
+*Différents liens
+*/
+
+.a-bloc{
+  color:var(--a-font-color);
+  text-transform:uppercase;
+  background: var(--lines);
+  background-repeat: no-repeat;
+  background-size: 0 100%;
+  transition: background-size 0.5s 0s;
+}
+
+.a-bloc:hover{
+  background-size: 100% 100%;
+}
+
+.a-nu{
+background:none;
+}
+
+.a-nu:hover{
+     background:var(--lines);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 
-.dark-mode-label::before {
-  content: "MODE NUIT";
-  cursor:pointer;
-  font-weight:bold;
-  border:2px solid var(--custom-color);
-  padding:5px;
-  font-size: var(--font-size);
-}
 
-.dark-mode-checkbox:checked ~ .theme-container .dark-mode-label::before {
-  content: "MODE JOUR";
-  font-weight:bold;
-  border:2px solid var(--custom-color);
-  padding:5px;
-  font-size: var(--font-size);
-}
 
-.typo-plus-label::before{
-  content: "TYPO +";
-  cursor:pointer;
-  font-weight:bold;
-  border:2px solid var(--custom-color);
-  padding:5px;
-  font-size: var(--font-size);
-}
 
-.typo-plus-checkbox:checked ~ .theme-container .typo-plus-label::before {
-  content: "TYPO -";
-  font-weight:bold;
-  border:2px solid var(--custom-color);
-  padding:5px;
-  font-size: var(--font-size);
-}
 
-.typo-dys-label::before{
-  font-family:sans-serif;
-  content: "TYPO SANS-SERIF";
-  cursor:pointer;
-  font-weight:bold;
-  border:2px solid var(--custom-color);
-  padding:5px;
-  font-size: var(--font-size);
-}
-
-.typo-dys-checkbox:checked ~ .theme-container .typo-dys-label::before {
-font-family:serif;
-  content: "TYPO SERIF";
-  font-weight:bold;
-  border:2px solid var(--custom-color);
-  padding:5px;
-  font-size: var(--font-size);
-}
-
-.test-label{
-  font-family:sans-serif;
-  cursor:pointer;
-  font-weight:bold;
-  border:2px solid var(--custom-color);
-  padding:5px;
-  font-size: var(--font-size);
-}
-
-.sr-only {
-  position: absolute;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  border: 0;
-  white-space: nowrap; /* 1. */
-}
 
 
 
