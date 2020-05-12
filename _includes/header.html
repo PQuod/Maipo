@@ -7,14 +7,14 @@
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
-        <div class="site-title"><a rel="author" href="{{ '/' | relative_url }}"><h1><span class="underline">{{ site.title | escape }}</span></h1></a>
+        <div class="site-title"><a rel="author" href="{{ '/' | relative_url }}"><span class="underline">{{ site.title | escape }}</span></a>
         </div>
 
         <div class="sub-nav">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <div class="page-link"><a href="{{ my_page.url | relative_url }}"><h1>{{ my_page.title | escape }}</h1></a></div>
+            <div class="page-link"><a href="{{ my_page.url | relative_url }}"><span class="menu-page-title">{{ my_page.title | escape }}</span></a></div>
             {%- endif -%}
           {%- endfor -%}
         </div>
@@ -29,6 +29,5 @@
         </div>
       </nav>
     {%- endif -%}
-
 </header>
 
