@@ -15,12 +15,8 @@
     padding-top:20px;
   }
 
-
-.site-title {
-text-transform:uppercase;
-display:inline-block;
-padding-left:var(--line-height);
-font-size:calc(var(--font-size)*1.5);
+.site-title a{
+  background:none;
 }
 
 .underline{
@@ -28,6 +24,13 @@ font-size:calc(var(--font-size)*1.5);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   transition: background-size 0.5s 0s;
+  text-transform:uppercase;
+display:inline-block;
+margin-left:var(--line-height);
+font-size:calc(var(--font-size)*2.3);
+padding-bottom:5px;
+font-weight:bold;
+font-family:sans-serif;
 }
 
 .underline:hover{
@@ -44,18 +47,21 @@ text-transform:uppercase;
     font-weight:normal;
     font-size:calc(var(--font-size)*0.8);
     padding-right:var(--line-height);
+    font-weight:bold;
+
   }
 
-
-
-.page-link h1{
+.menu-page-title{
   background: var(--lines);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   transition: background-size 0.5s 0s;
+  font-size:calc(var(--font-size)*1.5);
+      padding-bottom:5px;
+          font-family:sans-serif;
 }
 
-.page-link h1:hover{
+.menu-page-title:hover{
   background-size: 0 100%;
 }
 
@@ -69,13 +75,7 @@ margin-top:5px;
   padding-left:var(--line-height);
 }
 
-.fonc-liens a{
-  font-size:var(--font-size);
-  font-weight:bold;
-  margin-left:5px;
-  background-color:var(--custom-color);
-  padding:5px;
-}
+
 
 
 .line {
@@ -132,12 +132,15 @@ left:-10px;
 }
 
 
+
 .post-title{
   line-height:calc(var(--line-height)*1.5);
   font-family: sans-serif;
   font-size:calc(var(--font-size)*1.5);
   text-align:left;
 }
+
+
 
 .post-author{
   font-family:sans-serif;
@@ -152,6 +155,10 @@ left:-10px;
   *Articles
   */
 
+
+.post-content{
+  margin-top:var(--line-height);
+}
   article{
   max-width:var(--text-width);
   margin:auto;
@@ -162,15 +169,10 @@ left:-10px;
   padding-top:calc(var(--line-height)*2);
   }
 
-  article h1{
-    line-height:calc(var(--line-height)*2);
-    font-size:calc(var(--font-size)*2);
-        margin-bottom:calc(var(--line-height)*3);
-  }
-
 
   .text-content{
   margin-bottom:calc(var(--line-height)*3);
+  margin-top:calc(var(--line-height)*2);
   font-family:var(--text-font);
   font-size:calc(var(--font-size)*1.2);
   line-height:calc(var(--line-height)*1.5);
@@ -184,12 +186,19 @@ left:-10px;
   .p-author{
     position:relative;
     float:right;
+
+  }
+
+  .p-author a{
+    font-weight:bold;
+    font-family:sans-serif;
   }
 
 
   .post-footer h3{
     font-weight:normal;
     font-size:var(--font-size);
+
   }
 
   .post-line-footer{
@@ -209,6 +218,7 @@ left:-10px;
   text-align:justify;
   line-height:calc(var(--line-height)*1.5);
   font-family:sans-serif;
+  padding-top:var(--line-height);
   }
 
 
@@ -216,21 +226,7 @@ left:-10px;
   margin-bottom:calc(var(--line-height)*2);
 }
 
-  .archives h1{
-  margin-bottom:calc(var(--line-height)*2);
-  }
 
-  .archives h2{
-  margin-bottom:var(--line-height);
-  font-size:calc(var(--font-size)*1.5);
-  }
-
-
-.titre-archives{  
-  font-size:var(--font-size);
-  hyphenate-before: 2;
-  hyphenate-after: 3;
-}
 
 .archives-separator{
   font-size:var(--font-size);
@@ -266,6 +262,8 @@ left:-10px;
 
 .bio-auteur{
   margin-bottom:calc(var(--line-height)*3);
+  margin-top:calc(var(--line-height)*2);
+
       font-size:calc(var(--font-size)*1.2);
   font-family:var(--text-font);
 }
@@ -280,16 +278,10 @@ left:-10px;
 
 .liste-textes{
   padding-bottom:var(--line-height);
+  font-size:var(--font-size);
 }
 
 
-/**
-*Single
-*/
-
-.single-content{
-  padding-top:calc(var(--line-height)*3);
-}
 
 
   /**
@@ -299,6 +291,66 @@ left:-10px;
   .site-footer{
     display:none;
   }
+
+
+  /**
+  *Checkboxes & teir labels
+  */
+
+  .dark-mode-label::before {
+  content: "MODE NUIT";
+}
+
+.dark-mode-checkbox:checked ~ .theme-container .dark-mode-label::before {
+  content: "MODE JOUR";  
+}
+
+.typo-plus-label::before{
+  content: "TYPO +";
+}
+
+.typo-plus-checkbox:checked ~ .theme-container .typo-plus-label::before {
+  content: "TYPO -";
+}
+
+
+.typo-dys-label::before{
+  font-family:sans-serif;
+  content: "TYPO SANS-SERIF";
+}
+
+.typo-dys-checkbox:checked ~ .theme-container .typo-dys-label::before {
+font-family:serif;
+  content: "TYPO SERIF";
+}
+
+.test-label{
+  font-family:sans-serif;
+  cursor:pointer;
+  font-weight:bold;
+  border:2px solid var(--custom-color);
+  padding:5px;
+  font-size: var(--font-size);
+
+}
+
+.test-label a{
+    background:none;
+    text-transform:uppercase;
+}
+
+.sr-only {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  white-space: nowrap; /* 1. */
+}
+
 
 /**
 * Phones
@@ -356,10 +408,7 @@ left:-10px;
     margin:var(--line-height);
     }
 
-    article h1{
-    padding-top:calc(var(--line-height)*2);
-    text-align:left;
-    }
+
 
     .p-author{
     float:left;
