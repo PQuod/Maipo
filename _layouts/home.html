@@ -12,7 +12,7 @@ layout: default
       {%- for post in posts limit:15 -%} 
 
       <div class="apercu-post">
-        <a class="post-link" href="{{ post.url | relative_url }}">
+        <a class="a-nu" href="{{ post.url | relative_url }}">
              <span class="post-title">{{ post.title | escape }} <br>  </span>
         </a>     
         <span class="post-author">
@@ -22,9 +22,7 @@ layout: default
           {% endfor%} 
         </span><br>
          <div class="line"></div> 
-      </div> 
-      
-     
+      </div>     
 
       {%- endfor -%}
 
