@@ -3,15 +3,16 @@ layout: page
 ---
 <div class="fiche-auteur">
 	<label class="typo-dys-label" aria-label="Typo sans-serif" for="typo-dys"></label>
-<h1 class="nom-auteur">{{ page.title }}</h1>
+
 <div class="bio-auteur">
+<h1 class="nom-auteur">{{ page.title }}</h1>
 {{ content }}
 </div>
 <div class="liste-textes-auteur">
-
+<h2>Textes</h2>
 <ul>
     {% for post in site.categories[page.category] %}
-    <li class="liste-textes"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <li class="liste-textes">&#10039; <a class="a-nu" href="{{ post.url | relative_url }}">{{ post.title }}</a> &#10039;</li>
     {% endfor %}
 
 </ul>
