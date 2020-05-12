@@ -9,8 +9,7 @@ layout: page
 				{% for category in sorted_cats %}
 		<a class="titre-archives" href="../category/{{ category[0] | slugify }}">
 				{% assign my_array = category[0] | split: "-" %}
-				{{my_array | reverse | join: " "}}
-			</a>
+				{{my_array | reverse | join: " "}}</a>
 			&#10039;
 		{% endfor %}
 	</div>
