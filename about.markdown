@@ -4,15 +4,14 @@ title: À propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# A propos
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+INTERNET EXPLOREUR est un site de littérature qui accueille des textes. Il n'y a pas de comité éditorial mais il n'est possible d'y publier que si vous y avez été invité.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Colophon
 
+Le site utilise les polices par défaut de votre navigateur et de votre système d'exploitation. Il est réfléchi et conçu pour être accessible à tout le monde et sur toutes les plateformes.
 
-[jekyll-organization]: https://github.com/jekyll
+## Mentions légales
+
+Le site est construit avec le générateur de sites statiques [Jekyll](https://github.com/jekyll/jekyll) et est archivé sur [Github](https://github.com/PQuod). Il a été développé par Lucie Desaubliaux. Tous les textes sont sous licence [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
