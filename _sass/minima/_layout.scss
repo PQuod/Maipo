@@ -17,6 +17,7 @@
 
 
 .site-title {
+text-transform:uppercase;
 display:inline-block;
 padding-left:var(--line-height);
 font-size:calc(var(--font-size)*1.5);
@@ -38,6 +39,7 @@ font-size:calc(var(--font-size)*1.5);
 }
 
 .page-link {
+text-transform:uppercase;
     display:inline-block;
     font-weight:normal;
     font-size:calc(var(--font-size)*0.8);
@@ -101,8 +103,7 @@ margin-top:5px;
   margin-bottom:calc(var(--line-height)*4);
 }
 
-.page-title{
-  
+.page-title{ 
   font-size:calc(var(--font-size)*1.5);
   margin-bottom:var(--line-height);
 }
@@ -110,22 +111,6 @@ margin-top:5px;
 .apercu-post{
   padding-top:calc(var(--line-height)*3);
   padding-bottom:calc(var(--line-height)*2);
-}
-
-
-.post-link{  
-
-text-transform:none;
-text-decoration:underline;
-  background: var(--lines);
-  background-repeat: no-repeat;
-  background-size: 0 100%;
-
-}
-
-.post-link:hover {
-    text-decoration:none;
-  background-size: 100% 100%;
 }
 
 
@@ -158,8 +143,8 @@ text-decoration:underline;
   article .post{
   padding-top:calc(var(--line-height)*2);
   }
-  article h1{
 
+  article h1{
   padding-top:calc(var(--line-height)*3);
     line-height:calc(var(--line-height)*2);
     font-size:calc(var(--font-size)*2);
@@ -184,13 +169,9 @@ text-decoration:underline;
     float:right;
   }
 
-  .p-author a{
-  background: var(--lines);
-  }
 
   .post-footer h3{
     font-weight:normal;
-    text-transform:uppercase;
     font-size:var(--font-size);
   }
 
@@ -229,15 +210,9 @@ text-decoration:underline;
 
 
 .titre-archives{  
-  background: var(--lines);
-  background-repeat: no-repeat;
-  background-size: 0 100%;
-  transition: background-size 0.5s 0s;
   font-size:var(--font-size);
-}
-
-.titre-archives:hover {
-  background-size: 100% 100%;
+  hyphenate-before: 2;
+  hyphenate-after: 3;
 }
 
 .archives-separator{
@@ -258,16 +233,6 @@ text-decoration:underline;
 .list-auteurs{
   line-height:var(--line-height);
 }
-.auteurs a{  
-  background: var(--lines);
-  background-repeat: no-repeat;
-  background-size: 0 100%;
-  transition: background-size 0.5s 0s;
-}
-
-.auteurs a:hover {
-  background-size: 100% 100%;
-}
 
 /**
 *Auteurs single
@@ -283,9 +248,13 @@ text-decoration:underline;
 }
 
 .bio-auteur{
-  margin-bottom:calc(var(--line-height)*2);
-  font-size:var(--font-size);
+  margin-bottom:calc(var(--line-height)*3);
+      font-size:calc(var(--font-size)*1.2);
   font-family:var(--text-font);
+}
+
+.bio-auteur p{
+  margin-bottom:var(--line-height);
 }
 
 .liste-textes-auteur{
@@ -296,14 +265,6 @@ text-decoration:underline;
   padding-bottom:var(--line-height);
 }
 
-.liste-textes a{
-  font-family:sans-serif;
-  font-size:var(--font-size);
-}
-
-.liste-textes a:hover{
-  background: var(--lines);
-}
 
 /**
 *Single
