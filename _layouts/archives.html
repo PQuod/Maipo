@@ -12,8 +12,8 @@ layout: page
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "March" or month == "January" or month=="February" %}        
-        <a class="titre-archives" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}</a>
+        <a class="a-bloc" href="{{ post.url | relative_url }}">
+             {{ post.title | escape }}</a>
             <span class="archives-separator">&#10039;</span>
     {% endif %}
   {% endif %}
@@ -27,7 +27,7 @@ layout: page
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "June" or month == "April" or month=="May" %}        
-        <a class="titre-archives" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> 
+        <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> 
           <span class="archives-separator">&#10039;</span>
     {% endif %}
   {% endif %}
