@@ -281,7 +281,7 @@ left:-10px;
 
 .liste-textes{
   padding-bottom:var(--line-height);
-  font-size:var(--font-size);
+  font-size:calc(var(--font-size)*1.2);
 }
 
 
