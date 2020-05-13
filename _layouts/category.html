@@ -9,7 +9,7 @@ layout: page
 {{ content }}
 </div>
 <div class="liste-textes-auteur">
-<h2>Textes</h2>
+
 <ul>
     {% for post in site.categories[page.category] %}
     <li class="liste-textes">&#10039; <a class="a-nu" href="{{ post.url | relative_url }}">{{ post.title }}</a> &#10039;</li>
