@@ -34,11 +34,19 @@ Cependant, l'équipe fondatrice d'INTERNET EXPLOREUR peut estimer en commun si u
 
 ## Comment envoyer mes textes ?
 
-Il suffit d'adresser un email à [mail@internetexploreur.com](mail@internetexploreur.com), avec votre texte en pièce jointe en format .DOC, .DOCX ou .TXT. 
-
-*Surtout, ne jamais nous envoyer de .PDF.* 
+Il suffit d'adresser un email à [mail@internetexploreur.com](mail@internetexploreur.com), avec votre texte en pièce jointe en format .DOC, .DOCX ou .TXT. *Surtout, ne nous envoyez jamais de .PDF.* 
 
 Nous nous chargeons ensuite de publier les textes en ligne. Si votre texte n'apparaît donc pas aussitôt sur INTERNET EXPLOREUR après l'avoir envoyé, c'est normal : des humains travaillent derrière.
+
+Dans votre premier email, vous devez également nous dire qui vous a invité.
+
+Un email type donne donc quelque chose de ce genre :
+
+> Objet : Prénom Nom – Titre de votre texte
+
+> Corps : Bonjour. J'ai été invité.e par [*nom de la personne qui vous a invitée*] à publier sur INTERNET EXPLOREUR. Vous trouverez mon premier texte en pièce jointe. 
+
+> Pièce jointe : votretexte.doc
 
 ## Puis-je mettre des images ou des vidéos ?
 
@@ -47,3 +55,7 @@ Non. INTERNET EXPLOREUR prend le parti de ne proposer que du texte. Vous pouvez 
 ## Sous quel nom est-ce que j'apparais sur INTERNET EXPLOREUR ?
 
 Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme.  
+
+## Qui est propriétaire des textes ?
+
+Vous restez propriétaires de vos textes pour tout autre usage de votre choix. Cependant, les textes publiés sur le site sont soumis à la licence libre [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
