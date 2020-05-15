@@ -43,9 +43,9 @@ Dans votre premier email, vous devez également nous dire qui vous a invité.
 Un email type donne donc quelque chose de ce genre :
 
 > Objet : Prénom Nom – Titre de votre texte
-
+>
 > Corps : Bonjour. J'ai été invité.e par [*nom de la personne qui vous a invitée*] à publier sur INTERNET EXPLOREUR. Vous trouverez mon premier texte en pièce jointe. 
-
+>
 > Pièce jointe : votretexte.doc
 
 ## Puis-je mettre des images ou des vidéos ?
