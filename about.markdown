@@ -12,7 +12,7 @@ Il est comme une maison dont on partage la clé et dans laquelle chacun fait com
 
 ## Colophon
 
-Le site utilise les polices par défaut de votre navigateur et de votre système d'exploitation. Il est réfléchi et conçu pour être accessible à tout le monde et sur toutes les plateformes.
+Le site utilise les polices par défaut de votre navigateur et de votre système d'exploitation. Il est réfléchi et conçu pour être accessible à tout le monde et sur toutes les plateformes. Une version audio des textes est disponible si vous avez la fonction sur votre navigateur.
 
 ## Mentions légales
 
