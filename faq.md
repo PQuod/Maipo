@@ -58,4 +58,4 @@ Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme.
 
 ## Qui est propriétaire des textes ?
 
-Vous restez propriétaires de vos textes pour tout autre usage de votre choix. Cependant, les textes publiés sur le site sont soumis à la licence libre [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Vous restez propriétaires de vos textes pour tout autre usage de votre choix. Cependant, les textes publiés sur le site sont soumis à la licence libre [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
