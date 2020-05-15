@@ -12,9 +12,9 @@ INTERNET EXPLOREUR est un site de création littéraire ; pas une revue, ni un m
 
 ## On y lit quel type de texte ?
 
-De tout : des textes en cours, des textes aboutis, des brouillons, de l'expérimentation, de la prose, de la poésie, du théâtre, des articles plus théoriques, voire scientifiques, des notes de lecture, etc. Le contenu d'INTERNET EXPLOREUR dépend de qui publie sur INTERNET EXPLOREUR.
+De tout, toujours *inédit* : des textes en cours, des textes aboutis, des brouillons, de l'expérimentation, de la prose, de la poésie, du théâtre, des articles plus théoriques, voire scientifiques, des notes de lecture, etc. Le contenu d'INTERNET EXPLOREUR dépend de qui publie sur INTERNET EXPLOREUR.
 
-Il ne faut pas voir INTERNET EXPLOREUR comme un sité figé, mais plutôt comme une curiosité numérique instable où il est possible de lire tout un tas de choses qu'on n'a pas forcément l'habitude de lire ailleurs. 
+Il ne faut pas voir INTERNET EXPLOREUR comme un sité figé, mais plutôt comme une curiosité numérique instable, où sont publiés des textes présents nulle part ailleurs. 
 
 ## Qui peut publier sur INTERNET EXPLOREUR ?
 
