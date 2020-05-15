@@ -6,7 +6,7 @@ permalink: /faq/
 
 *Si vous arrivez sur cette page, c'est que, normalement, vous avez été invité.e par quelqu'un, qui vous l'a transmise. Elle répondra normalement à toutes vos questions sur INTERNET EXPLOREUR, et sur son fonctionnement pour publier.*
 
-1. C'est quoi, INTERNET EXPLOREUR ?
+## C'est quoi, INTERNET EXPLOREUR ?
 
 INTERNET EXPLOREUR est un site de création littéraire ; pas une revue, ni un magazine. Pour avoir un aperçu de son état d'esprit, on vous redirige vers [la page d'à propos](https://internetexploreur.com/about).
 
