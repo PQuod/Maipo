@@ -20,6 +20,10 @@
 }
 
 .underline{
+  background:var(--lines);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  transition: background-size 0.5s 0s;
   text-transform:uppercase;
 display:inline-block;
 margin-left:var(--line-height);
@@ -29,6 +33,9 @@ font-weight:bold;
 font-family:sans-serif;
 }
 
+.underline:hover{
+  background-size: 0 100%;
+}
 
 .sub-nav{
   padding-left:var(--line-height);
@@ -50,8 +57,8 @@ text-transform:uppercase;
   background-size: 100% 100%;
   transition: background-size 0.5s 0s;
   font-size:calc(var(--font-size)*1.5);
-      padding-bottom:5px;
-          font-family:sans-serif;
+  padding-bottom:5px;
+  font-family:sans-serif;
 }
 
 .menu-page-title:hover{
@@ -72,17 +79,16 @@ margin-top:5px;
 
 
 .line {
-        width: var(--text-width);
-        height: 30px;
-        border-bottom: 10px solid var(--custom-color);
-        -webkit-transform:
-            translateY(-20px)
-            translateX(5px)
-            rotate(2deg); 
-position:relative;
-top:calc(var(--line-height)*3);
-left:-10px;
-
+  width: var(--text-width);
+  height: 30px;
+  border-bottom: 10px solid var(--custom-color);
+  -webkit-transform:
+    translateY(-20px)
+    translateX(5px)
+  rotate(2deg); 
+  position:relative;
+  top:calc(var(--line-height)*3);
+  left:-10px;
 }
 
 .line-post {
@@ -214,8 +220,8 @@ left:-10px;
   text-align:justify;
   line-height:calc(var(--line-height)*1.5);
   font-family:sans-serif;
-  padding-top:var(--line-height);
   }
+
 
 
 .trimestre{
@@ -237,10 +243,12 @@ left:-10px;
   max-width:var(--text-width);
   margin:auto;
   font-family:sans-serif;
+    line-height:var(--line-height);
+      padding-top:var(--line-height);
 }
 
 .list-auteurs{
-  line-height:var(--line-height);
+
 }
 
 /**
@@ -290,7 +298,7 @@ left:-10px;
 
 
   /**
-  *Checkboxes & teir labels
+  *Checkboxes & their labels
   */
 
   .dark-mode-label::before {
@@ -313,11 +321,12 @@ left:-10px;
 .typo-dys-label::before{
   font-family:sans-serif;
   content: "TYPO SANS-SERIF";
+  background:var(--contrast-color);
 }
 
 .typo-dys-checkbox:checked ~ .theme-container .typo-dys-label::before {
 font-family:serif;
-  content: "TYPO SERIF";
+  content: "TYPO SERIF";  
 }
 
 .test-label{
