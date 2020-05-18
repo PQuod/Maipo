@@ -302,11 +302,11 @@ left:-10px;
 }
 
 .typo-plus-label::before{
-  content: "TYPO +";
+  content: "A+";
 }
 
 .typo-plus-checkbox:checked ~ .theme-container .typo-plus-label::before {
-  content: "TYPO -";
+  content: "A-";
 }
 
 
