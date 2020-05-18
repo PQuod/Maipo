@@ -20,10 +20,7 @@
 }
 
 .underline{
-  background:var(--lines);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  transition: background-size 0.5s 0s;
+  background:none;
   text-transform:uppercase;
 display:inline-block;
 margin-left:var(--line-height);
@@ -34,7 +31,9 @@ font-family:sans-serif;
 }
 
 .underline:hover{
-  background-size: 0 100%;
+  background:var(--lines);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .sub-nav{
