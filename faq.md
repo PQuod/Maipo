@@ -14,7 +14,7 @@ INTERNET EXPLOREUR est un site de création littéraire ; pas une revue, ni un m
 
 De tout, toujours *inédit* : des textes en cours, des textes aboutis, des brouillons, de l'expérimentation, de la prose, de la poésie, du théâtre, des articles plus théoriques, voire scientifiques, des notes de lecture, etc. Le contenu d'INTERNET EXPLOREUR dépend de qui publie sur INTERNET EXPLOREUR.
 
-Il ne faut pas voir INTERNET EXPLOREUR comme un sité figé, mais plutôt comme une curiosité numérique instable, où sont publiés des textes présents nulle part ailleurs. 
+Il ne faut pas voir INTERNET EXPLOREUR comme un site figé, mais plutôt comme une curiosité numérique instable, où sont publiés des textes présents nulle part ailleurs. 
 
 ## Qui peut publier sur INTERNET EXPLOREUR ?
 
@@ -22,13 +22,13 @@ Ne peuvent publier sur INTERNET EXPLOREUR que des personnes qui ont été invit�
 
 ## Quel est le rythme de publication ?
 
-Il n'y en a pas, car il dépend de chacun et de chacune. Une fois que vous avez accès à INTERNET EXPLOREUR, il dure pour toujours (sauf bannissement pour faute grave), et il vous est donc possible d'envoyer un texte à n'importe quel moment.
+Il n'y en a pas, car il dépend de chacun et de chacune. Une fois que vous avez un accès à INTERNET EXPLOREUR, il dure pour toujours (sauf bannissement pour faute grave), et il vous est donc possible d'envoyer un texte à n'importe quel moment.
 
 Vous pouvez envoyer plusieurs textes par mois aussi bien qu'un seul tous les six mois. 
 
 ## Y a-t-il un comité éditorial ?
 
-Oui et non. Les textes ne sont ni relus, ni corrigés, ni soumis à validation d'un comité. L'entière responsabilité de ce qui est écrit repose sur l'auteur ou l'autrice. Si vous vous fichez des fautes, vous pouvez envoyer tel quel, mais si vous voulez que votre texte soit impeccable, il vous appartient de le faire relire de votre côté.
+Oui et non. Les textes ne sont ni relus, ni corrigés, ni soumis à validation d'un comité. L'entière responsabilité de ce qui est écrit repose sur vous. Si les fautes ne vous dérangent pas, vous pouvez envoyer votre texte tel quel, mais si vous voulez que votre texte soit impeccable, il vous appartient de le faire relire de votre côté.
 
 Cependant, l'équipe fondatrice d'INTERNET EXPLOREUR peut estimer en commun si un texte, pour des motifs injurieux ou discriminants, n'a pas sa place en ligne.
 
@@ -50,7 +50,7 @@ Un email type donne donc quelque chose de ce genre :
 
 ## Puis-je mettre des images ou des vidéos ?
 
-Non. INTERNET EXPLOREUR prend le parti de ne proposer que du texte. Vous pouvez cependant, bien sûr, intégrer des liens hypertextes ou des notes de bas de page dans vos textes.
+Non. INTERNET EXPLOREUR prend le parti de ne proposer que de l'écrit. Vous pouvez cependant, bien sûr, intégrer des liens hypertextes ou des notes de bas de page dans vos textes.
 
 De plus, inutile de définir une police précise pour votre texte, elle sera de toute façon modifiée une fois en ligne pour s'accorder avec le style et les fonctionnalités du site.
 
@@ -60,4 +60,4 @@ Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme.
 
 ## Qui est propriétaire des textes ?
 
-Vous restez propriétaires de vos textes pour tout autre usage de votre choix. Cependant, les textes publiés sur le site sont soumis à la licence libre [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Vous restez propriétaire de vos textes pour tout autre usage de votre choix. Cependant, les textes publiés sur le site sont soumis à la licence libre [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
