@@ -8,7 +8,7 @@ permalink: /faq/
 
 ## C'est quoi, INTERNET EXPLOREUR ?
 
-INTERNET EXPLOREUR est un site de création littéraire ; pas une revue, ni un magazine, encore moins un blog. Pour avoir un aperçu de son état d'esprit, on vous redirige vers [la page d'à propos](https://internetexploreur.com/about).
+INTERNET EXPLOREUR est un site de création littéraire ; pas une revue, ni un magazine, ni un blog. Pour avoir un aperçu de son état d'esprit, on vous redirige vers [la page d'à propos](https://internetexploreur.com/about).
 
 ## On y lit quel type de texte ?
 
@@ -51,6 +51,8 @@ Un email type donne donc quelque chose de ce genre :
 ## Puis-je mettre des images ou des vidéos ?
 
 Non. INTERNET EXPLOREUR prend le parti de ne proposer que du texte. Vous pouvez cependant, bien sûr, intégrer des liens hypertextes ou des notes de bas de page dans vos textes.
+
+De plus, inutile de définir une police précise pour votre texte, elle sera de toute façon modifiée une fois en ligne pour s'accorder avec le style et les fonctionnalités du site.
 
 ## Sous quel nom est-ce que j'apparais sur INTERNET EXPLOREUR ?
 
