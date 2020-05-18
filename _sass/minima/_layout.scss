@@ -242,13 +242,10 @@ left:-10px;
   max-width:var(--text-width);
   margin:auto;
   font-family:sans-serif;
-    line-height:var(--line-height);
+    line-height:calc(var(--line-height)*1.5);
       padding-top:var(--line-height);
 }
 
-.list-auteurs{
-
-}
 
 /**
 *Auteurs single
@@ -266,7 +263,7 @@ left:-10px;
 .bio-auteur{
   margin-bottom:calc(var(--line-height)*3);
   margin-top:calc(var(--line-height)*2);
-
+  line-height:calc(var(--line-height)*1.5);
       font-size:calc(var(--font-size)*1.2);
   font-family:var(--text-font);
 }
