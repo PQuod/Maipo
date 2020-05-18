@@ -1,6 +1,7 @@
 ---
 layout: single
 title: À propos
+menu: main
 permalink: /about/
 ---
 
