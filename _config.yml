@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  C'est le site où il y aura des textes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://internetexploreur.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pquod.github.io/Maipo" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
