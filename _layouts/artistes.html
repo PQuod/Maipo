@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: single
 ---
-<article>
+
 <div class="auteurs">
-	<div class="list-auteurs">
-		<h1>Artistes</h1>
+
 		{%assign sorted_cats = site.categories | sort %}
 				{% for category in sorted_cats %}
 		<a class="a-bloc" href="../category/{{ category[0] | slugify }}">
@@ -12,7 +11,6 @@ layout: page
 				{{my_array | reverse | join: " "}}</a>
 			&#10039;
 		{% endfor %}
-	</div>
 </div>
 
-</article>
+
