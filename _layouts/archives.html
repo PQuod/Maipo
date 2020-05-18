@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: single
+title: Archives
 ---
-<article>
 <div class="archives">
   <h1>2020</h1>
 
-   <div class="trimestre">
+  <div class="trimestre">
   <h2>Tome 1</h2>
   {% for post in site.posts %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
@@ -35,5 +35,4 @@ layout: page
  </div>
 
 </div>
-</article>
 
