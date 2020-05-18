@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Futur maître de la ligue Pokémon"
+title:  "Futur maître de la Ligue Pokémon"
 date:   2020-05-18 12:25:24 +0200
 categories: Leclerc-Quentin
 ---
