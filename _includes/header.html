@@ -13,7 +13,7 @@
         <div class="sub-nav">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
+            {%- if my_page.menu == 'main' -%}
             <div class="page-link"><a href="{{ my_page.url | relative_url }}"><span class="menu-page-title">{{ my_page.title | escape }}</span></a></div>
             {%- endif -%}
           {%- endfor -%}
