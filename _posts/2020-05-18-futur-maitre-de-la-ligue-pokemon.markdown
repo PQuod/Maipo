@@ -5,9 +5,11 @@ date:   2020-05-18 12:25:24 +0200
 categories: Leclerc-Quentin
 ---
 
-*J'ai écrit ces poèmes l'année dernière, parce que je me suis dit : pourquoi pas écrire des poèmes. En 2016 ou 2017, j'avais lu deux recueils du poète américain Sampson Starkweather, [The First 4 Books of Sampson Starkweather](http://www.birdsllc.com/catalog/the-first-4-books-of-sampson-starkweather) et [Pain: The Board Game](https://thirdmanstore.com/pain-the-board-game), qui m'avaient beaucoup plu, ou plutôt marqué, parce que Starkweather y faisait une poésie qu'on ne trouve pas en France, du moins pas à ma connaissance.*
+*J'ai écrit ces poèmes l'année dernière, parce que je me suis dit : pourquoi pas écrire des poèmes.*
 
-*Un peu sur ce mode, j'ai commencé un ensemble, que je n'ai pas terminé, et ne terminerai sans doute jamais. Je les publie ici en plusieurs temps, dont voici le premier.*
+*En 2016 ou 2017, j'avais lu deux recueils du poète américain Sampson Starkweather, [The First 4 Books of Sampson Starkweather](http://www.birdsllc.com/catalog/the-first-4-books-of-sampson-starkweather) et [Pain: The Board Game](https://thirdmanstore.com/pain-the-board-game), qui m'avaient beaucoup plu, ou plutôt marqué, parce que Starkweather y faisait une poésie qu'on ne trouve pas en France, du moins pas à ma connaissance.*
+
+*Un peu sur ce mode, j'ai commencé un ensemble, que je n'ai pas terminé, et ne terminerai sans doute jamais. Je publierai les poèmes ici en plusieurs temps, dont voici le premier.*
 
 ## Intro : PROF. CHEN apparaît
 
