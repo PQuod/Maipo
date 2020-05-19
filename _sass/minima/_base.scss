@@ -25,6 +25,9 @@
   --font-size:1.5em;
   --line-height:30px;
   --text-width:60em;
+    .underline{
+  font-size:calc(var(--font-size)*3);
+  }
 }
 
 #typo-dys:checked,
