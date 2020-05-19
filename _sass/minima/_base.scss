@@ -168,7 +168,6 @@ font-family:sans-serif;
 
 .a-nu{
 background:none;
-
 }
 
 .a-nu:hover{
@@ -179,8 +178,36 @@ background:none;
 
 
 
+@media all and (max-device-width: 700px)
+{
+
+h1{
+   line-height:calc(var(--line-height)*2); 
+   margin-bottom:var(--line-height);
+}
 
 
+h2{
+
+   line-height:calc(var(--line-height)*1.5); 
+}
+
+article h2{
+  margin-top:calc(var(--line-height)*2);
+}
+
+
+
+.typo-dys-label::before{
+font-size:calc(var(--font-size)/1.5)
+}
+
+.typo-dys-checkbox:checked ~ .theme-container .typo-dys-label::before {
+font-family:serif;
+  font-size:calc(var(--font-size)/1.5)
+}
+
+}
 
 
 
