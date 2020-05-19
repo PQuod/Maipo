@@ -34,7 +34,7 @@ Cependant, l'équipe fondatrice d'INTERNET EXPLOREUR peut estimer en commun si u
 
 ## Comment envoyer mes textes ?
 
-Il suffit d'adresser un email à <mail@internetexploreur.com>, avec votre texte en pièce jointe en format .DOC, .DOCX ou .TXT. *Surtout, ne nous envoyez jamais de .PDF.* 
+Il suffit d'adresser un email à <mail@internetexploreur.com>, avec votre texte en pièce jointe en format .DOC, .DOCX, .ODT ou .MD. *Surtout, ne nous envoyez jamais de .PDF.* 
 
 Nous nous chargeons ensuite de publier les textes en ligne. Si votre texte n'apparaît donc pas aussitôt sur INTERNET EXPLOREUR après l'avoir envoyé, c'est normal : des humains travaillent derrière.
 
