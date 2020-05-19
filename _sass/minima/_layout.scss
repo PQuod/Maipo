@@ -352,6 +352,9 @@ font-family:serif;
 @media all and (max-device-width: 700px)
 {
 
+.menu-page-title:hover{
+  background-size: 100% 100%;
+}
 
    .site-title{
     font-size:var(--font-size);
@@ -408,9 +411,7 @@ left:-10px;
   transition: background-size 0.5s 0s;
 }
 
-.post-link:hover {
-  background-size: 100% 100%;
-}
+
 
  article{
     margin:var(--line-height);
