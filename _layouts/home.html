@@ -19,7 +19,8 @@ layout: default
           {%for item in post.categories%}
             {% assign my_array = item | split: "-" %}
           {{my_array | reverse | join: " " }} 
-          {% endfor%} 
+          {% endfor%}
+           &#10039;{% include date.html date=post.date %}
         </span><br>
          <div class="line"></div> 
       </div>     
