@@ -29,6 +29,7 @@ font-weight:bold;
 font-family:sans-serif;
 }
 
+
 .sub-nav{
   padding-left:var(--line-height);
 }
@@ -101,6 +102,8 @@ left:-10px;
   /**
   * Contenu
   */
+
+
 
 .textes-display{
   max-width:var(--text-width);
@@ -229,7 +232,7 @@ left:-10px;
   max-width:var(--text-width);
   margin:auto;
   font-family:sans-serif;
-    line-height:calc(var(--line-height)*1.5);
+  line-height:calc(var(--line-height)*1.5);
       padding-top:var(--line-height);
 }
 
@@ -239,7 +242,7 @@ left:-10px;
 */
 
 .fiche-auteur{
-  line-height:var(--line-height);
+  line-height:calc(var(--line-height)*1.5);
    padding-top:calc(var(--line-height)*2);
 }
 
@@ -343,13 +346,16 @@ font-family:serif;
 /**
 * Phones
 */
+
+
+
 @media all and (max-device-width: 700px)
 {
+
+
    .site-title{
     font-size:var(--font-size);
     }
-
-
 
     .page-title{
     font-size:1em;
@@ -363,12 +369,10 @@ font-family:serif;
    }
 
    .post-title{
-   font-size:var(--font-size);
+   font-size:calc(var(--font-size)*1.5);
    }
 
-   .post-author{
-   font-size:calc(var(--font-size)*0.5);
-   }
+
 
    .line {
         width:95%;
@@ -378,8 +382,24 @@ font-family:serif;
             translateY(-20px)
             translateX(5px)
                         rotate(2deg);
-        position: absolute;
+        position:relative;
+  top:calc(var(--line-height)*3);
+  left:-10px;
     }
+
+      .line-post {
+        width: 95%;
+        height: 30px;
+        border-bottom: 10px solid var(--custom-color);
+        -webkit-transform:
+            translateY(-20px)
+            translateX(5px)
+            rotate(2deg); 
+position:relative;
+top:var(--line-height);
+left:-10px;
+
+}
 
     .post-link{  
   background: var(--lines);
@@ -396,45 +416,18 @@ font-family:serif;
     margin:var(--line-height);
     }
 
-
-
-    .p-author{
-    float:left;
-  }
-
     .post-footer{
     margin-bottom:calc(var(--line-height)*3);
     }
 
-        .post-line-header .line {
-       width:95%;
-        height: 30px;
-        border-bottom: 10px solid var(--custom-color);
-        -webkit-transform:
-            translateY(-20px)
-            translateX(5px)
-                        rotate(2deg);
-        position: absolute;
-        left:0;
-    }
 
-    .post-line-footer .line {
-       width:95%;
-        height: 30px;
-        border-bottom: 10px solid var(--custom-color);
-        -webkit-transform:
-            translateY(-20px)
-            translateX(5px)
-                        rotate(2deg);
-        position: absolute;
-        left:0
-    }
+    .typo-plus-label::before{
+  display:none;
+}
 
-    .archives{
-    margin:var(--line-height);
-    }
+.typo-plus-checkbox:checked ~ .theme-container .typo-plus-label::before {
+  display:none;
+}
 
-       .auteurs{
-    margin:var(--line-height);
-    }
+
 }
