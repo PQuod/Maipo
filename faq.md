@@ -54,9 +54,9 @@ Non. INTERNET EXPLOREUR prend le parti de ne proposer que de l'écrit. Vous pouv
 
 De plus, inutile de définir une police précise pour votre texte, elle sera de toute façon modifiée une fois en ligne pour s'accorder avec le style et les fonctionnalités du site.
 
-## Sous quel nom est-ce que j'apparais sur INTERNET EXPLOREUR ?
+## Sous quel nom et avec quelle bio est-ce que j'apparais sur INTERNET EXPLOREUR ?
 
-Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme.  
+Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme. Idem pour votre bio : vous pouvez la présenter à votre façon (y compris avec un lien vers votre site), tant qu'elle ne dépasse pas trois ou quatre lignes.
 
 ## Qui est propriétaire des textes ?
 
