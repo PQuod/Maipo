@@ -77,7 +77,10 @@ h2{
   font-size:calc(var(--font-size)*1.5);
   line-height:calc(var(--line-height)*1.5); 
   margin-bottom:var(--line-height);
-  padding-top: 1em;
+}
+
+article h2{
+  margin-top:calc(var(--line-height)*3);
 }
 
 li{
