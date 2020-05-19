@@ -61,8 +61,8 @@ De plus, inutile de définir une police précise pour votre texte, elle sera de 
 Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme. Idem pour votre bio : vous pouvez la présenter à votre façon (y compris avec un lien vers votre site), tant qu'elle ne dépasse pas trois ou quatre lignes.[^bignote]
 
 [^bignote]: Ceci est un autre test
-  Mais avec plus de texte
-  Genre vraiment beaucou plus
+Mais avec plus de texte
+Genre vraiment beaucou plus
 
 ## Qui est propriétaire des textes ?
 
