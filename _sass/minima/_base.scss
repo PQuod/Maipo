@@ -8,6 +8,7 @@
   --lines: linear-gradient(to top, cyan 50%, rgba(255,255,255,0) 50%);
   --text-width: 40em;
   --text-font:serif;
+  --contrast-color: linear-gradient(to top, #ef1a63; 50%, rgba(255,255,255,0) 50%);
   --cite-color:#e7e8ea;
 }
 
@@ -19,7 +20,8 @@
   --a-font-color: #eee;
   --custom-color: #ef1a63;
   --lines: linear-gradient(to top, #ef1a63 50%, rgba(255,255,255,0) 50%);
-  --cite-color:#333642;
+    --contrast-color: linear-gradient(to top, cyan; 50%, rgba(255,255,255,0) 50%);
+      --cite-color:#333642;
 }
 
 #typo-plus:checked,
@@ -27,7 +29,7 @@
   --font-size:1.5em;
   --line-height:30px;
   --text-width:60em;
-    .underline{
+  .underline{
   font-size:calc(var(--font-size)*3);
   }
 }
@@ -68,8 +70,7 @@ flex-direction:column;
 
 h1, h2, h3
 {
-  font-family:sans-serif;
-    
+  font-family:sans-serif;    
 }
 
 h1{
@@ -92,6 +93,11 @@ li{
 list-style-type: none;
 }
 
+li:before {
+  content: "- "; 
+}
+
+
 blockquote{
   margin-right:25px;
   margin-left:25px;
@@ -107,6 +113,7 @@ blockquote{
 q {
   quotes: "‘" "’" "“" "”";
 }
+
 
 
 label{
