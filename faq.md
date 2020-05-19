@@ -52,20 +52,12 @@ Un email type donne donc quelque chose de ce genre :
 
 Non. INTERNET EXPLOREUR prend le parti de ne proposer que de l'écrit. Vous pouvez cependant, bien sûr, intégrer des liens hypertextes ou des notes de bas de page dans vos textes.
 
-De plus, inutile de définir une police précise pour votre texte, elle sera de toute façon modifiée une fois en ligne pour s'accorder avec le style et les fonctionnalités du site.[^1]
-
-[^1]: Ceci est un test
+De plus, inutile de définir une police précise pour votre texte, elle sera de toute façon modifiée une fois en ligne pour s'accorder avec le style et les fonctionnalités du site.
 
 ## Sous quel nom et avec quelle bio est-ce que j'apparais sur INTERNET EXPLOREUR ?
 
-Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme. Idem pour votre bio : vous pouvez la présenter à votre façon (y compris avec un lien vers votre site), tant qu'elle ne dépasse pas trois ou quatre lignes.[^bignote]
-
-[^bignote]: Ceci est un autre test  
-    Mais avec plus de texte  
-    Genre vraiment beaucoup plus
+Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme. Idem pour votre bio : vous pouvez la présenter à votre façon (y compris avec un lien vers votre site), tant qu'elle ne dépasse pas trois ou quatre lignes.
 
 ## Qui est propriétaire des textes ?
 
 Vous restez propriétaire de vos textes pour tout autre usage de votre choix. Cependant, les textes publiés sur le site sont soumis à la licence libre [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-
