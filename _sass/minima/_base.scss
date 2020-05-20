@@ -114,6 +114,10 @@ q {
   quotes: "‘" "’" "“" "”";
 }
 
+.footnotes::before{
+  content: "---";
+}
+
 .footnotes li {
   counter-increment: my-counter;
 }
