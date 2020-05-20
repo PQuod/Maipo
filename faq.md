@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Foire aux questions
+typo: oui
 permalink: /faq/
 ---
 
