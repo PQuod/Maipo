@@ -89,6 +89,10 @@ article h2{
   margin-top:calc(var(--line-height)*3);
 }
 
+hr{
+  padding-bottom:var(--line-height);
+}
+
 li{
 list-style-type: none;
 }
