@@ -2,6 +2,7 @@
 layout: single
 title: À propos
 menu: main
+typo: oui
 permalink: /about/
 ---
 
