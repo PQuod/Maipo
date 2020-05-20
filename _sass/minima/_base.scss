@@ -120,7 +120,6 @@ q {
 
 .footnotes li::before{
   content: counter(my-counter) ". ";
-  color: var(--custom-color);
   font-weight: bold;
 }
 
