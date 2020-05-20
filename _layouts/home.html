@@ -20,6 +20,10 @@ layout: default
             {% assign my_array = item | split: "-" %}
           {{my_array | reverse | join: " " }} 
           {% endfor%}
+          {% for item in post.colab %}
+            {% assign my_array = item %}
+            & {{my_array | escape }}
+          {% endfor %}
            &#10039;{% include date.html date=post.date %}
         </span><br>
          <div class="line"></div> 
