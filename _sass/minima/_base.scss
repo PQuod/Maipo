@@ -114,7 +114,16 @@ q {
   quotes: "‘" "’" "“" "”";
 }
 
+.footnotes li {
+  counter-increment: my-counter;
+}
 
+.footnotes li::before{
+ 
+  content: counter(my-counter) ". ";
+  color: var(--custom-color);
+  font-weight: bold;
+}
 
 label{
   cursor:pointer;
