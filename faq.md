@@ -68,4 +68,4 @@ Vous restez propriétaire de vos textes pour tout autre usage de votre choix. Ce
 
 ## Puis-je inviter d'autres personnes à publier ?
 
-Oui et non. Oui, car toute personne invitée à publier sur INTERNET EXPLOREUR, si elle a publié au moins un texte sur le site, peut à son tour inviter 3 autres personnes à publier. Simplement, pour limiter les flux (car la courbe d'invitation est exponentielle), nous instaurons des sas d'invitations. En somme, tant que nous ne vous avons pas explicité autorisé à inviter d'autres personnes, nous préférons que vous ne le fassiez pas (même si vous pouvez évidemment leur en parler).
+Oui et non. Oui, car toute personne invitée à publier sur INTERNET EXPLOREUR, si elle a publié au moins un texte sur le site, peut à son tour inviter 3 autres personnes à publier. Et non car, pour limiter les flux (car la courbe d'invitation est exponentielle), nous instaurons des sas d'invitations. En somme, tant que nous ne vous avons pas explicitement autorisé à inviter d'autres personnes, nous préférons que vous ne le fassiez pas (même si vous pouvez évidemment leur en parler).
