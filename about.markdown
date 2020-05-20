@@ -9,6 +9,8 @@ INTERNET EXPLOREUR est un site de littérature qui accueille des textes inédits
 
 C'est un site où l'on peut lire des textes qui n'ont pas (encore) trouvé de place ailleurs, ou dont on n'a pas su quoi faire. Il n'est soumis à aucune régularité calendaire, ni à aucune limite quantitative. Il peut accueillir des textes de toutes langues, traduits ou non.
 
+La page d'accueil n'affiche que les 12 derniers textes mis en ligne. Pour tous les consulter, se reporter aux [archives](https://internetexploreur.com/archives). 
+
 Il est comme une maison dont on partage la clé et dans laquelle chacun fait comme il veut. 
 
 ## Colophon
