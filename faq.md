@@ -20,6 +20,10 @@ Il ne faut pas voir INTERNET EXPLOREUR comme un site figé, mais plutôt comme u
 
 Ne peuvent publier sur INTERNET EXPLOREUR que des personnes qui ont été invitées à le faire par des personnes publiant déjà sur INTERNET EXPLOREUR. Nous n'acceptons pas de propositions spontanées.
 
+## Peut-on publier en collaboration ?
+
+Oui, de deux façons. Soit en collaborant avec un ou plusieurs autres artistes avec un accès au site. Soit en collaborant avec un ou plusieurs autres artistes qui n'ont pas accès au site. Dans ce cas, son nom sera simplement non-cliquable en bas de l'article, et il ou elle ne disposera d'une page personnelle que le jour où il ou elle aura été officiellement invité.e par quelqu'un.
+
 ## Quel est le rythme de publication ?
 
 Il n'y en a pas, car il dépend de chacun et de chacune. Une fois que vous avez un accès à INTERNET EXPLOREUR, il dure pour toujours (sauf bannissement pour faute grave), et il vous est donc possible d'envoyer un texte à n'importe quel moment.
@@ -61,3 +65,7 @@ Libre à vous de nous communiquer votre PRÉNOM + NOM, ou un pseudonyme. Idem po
 ## Qui est propriétaire des textes ?
 
 Vous restez propriétaire de vos textes pour tout autre usage de votre choix. Cependant, les textes publiés sur le site sont soumis à la licence libre [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## Puis-je inviter d'autres personnes à publier ?
+
+Oui et non. Oui, car toute personne invitée à publier sur INTERNET EXPLOREUR, si elle a publié au moins un texte sur le site, peut à son tour inviter 3 autres personnes à publier. Simplement, pour limiter les flux (car la courbe d'invitation est exponentielle), nous instaurons des sas d'invitations. En somme, tant que nous ne vous avons pas explicité autorisé à inviter d'autres personnes, nous préférons que vous ne le fassiez pas (même si vous pouvez évidemment leur en parler).
