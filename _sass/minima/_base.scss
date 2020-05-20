@@ -124,6 +124,7 @@ q {
 
 .footnotes li {
   counter-increment: my-counter;
+  margin-bottom:var(--line-height);
 }
 
 .footnotes li::before{
