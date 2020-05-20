@@ -40,9 +40,9 @@ Cependant, l'équipe fondatrice d'INTERNET EXPLOREUR peut estimer en commun si u
 
 Il suffit d'adresser un email à <mail@internetexploreur.com>, avec votre texte en pièce jointe en format .DOC, .DOCX, .ODT ou .MD. *Surtout, ne nous envoyez jamais de .PDF.* 
 
-Nous nous chargeons ensuite de publier les textes en ligne. Si votre texte n'apparaît donc pas aussitôt sur INTERNET EXPLOREUR après l'avoir envoyé, c'est normal : des humains travaillent derrière.
+Nous nous chargeons ensuite de publier les textes en ligne. Si votre texte n'apparaît donc pas aussitôt sur INTERNET EXPLOREUR après l'avoir envoyé, c'est normal : des humains travaillent derrière. Nous pouvons également, et occasionnellement, instaurer un délai de publication si nous recevons trop de textes en même temps.
 
-Dans votre premier email, vous devez également nous dire qui vous a invité.
+Dans votre premier email, vous devez préciser qui vous a invité.
 
 Un email type donne donc quelque chose de ce genre :
 
