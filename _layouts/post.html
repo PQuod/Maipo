@@ -24,7 +24,7 @@ layout: page
         {% for item in page.categories %}
             <span class="p-author"><a href="../category/{{ item | slugify }}">{% assign my_array = item | split: "-" %}
         {{my_array | reverse | join: " " }}</a>
-            {%- if forloop.last == false %}, {%- endif -%}
+            {%- if forloop.last == false %},  {%- endif -%}
         {% endfor %}
       {%- endif -%}
 
