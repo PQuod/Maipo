@@ -9,7 +9,7 @@ permalink: /tuto/
 
 ## Markdown, c'est quoi ?
 
-Comme évoqué dans l'introduction, Markdown est un langage de balisage. Pour faire très simple, il permet de mettre en forme votre texte pour des pages web ou une impression, sans avoir l'impression de lire un texte technique, et ce grâce à des symboles lisibles par toutes et tous.
+Comme évoqué dans l'introduction, [Markdown](https://www.markdownguide.org/getting-started/) est un langage de balisage. Pour faire très simple, il permet de mettre en forme votre texte pour des pages web ou une impression, sans avoir l'impression de lire un texte technique, et ce grâce à des symboles lisibles par toutes et tous.
 
 Il permet également d'écrire en texte brut, et donc de rendre plus lisible la mise en page de votre document lors de sa rédaction (on connaît tous ces espaces Word bizarres qu'on ne parvient pas à modifier ou supprimer).
 
@@ -29,12 +29,12 @@ Le format est `.md` ou `.markdown` (les deux fonctionnent). Un fichier type s'ap
 
 L'en-tête reprend les informations nécessaires pour connaître le titre de votre texte, sa date, sa catégorie et sa mise en page. L'entête est délimité par deux lignes, symbolisées par des tirets. Un en-tête type est donc (les mentions entre parenthèses ne sont pas à écrire dans votre document) :
 
-> ---
-> layout: post
-> title: "Votre Titre"
-> date: 2020-05-29 (la date du jour)
-> categories: Nom-Prenom (sans accent)
-> ---
+> `---`
+> `layout: post`
+> `title: "Votre Titre"`
+> `date: 2020-05-29 (la date du jour)`
+> `categories: Nom-Prenom (sans accent)`
+> `---`
 
 Et voilà, une fois le nom de votre fichier indiqué, et cette en-tête intégrée au début de votre document, vous pouvez commencer à rédiger.
 
@@ -44,23 +44,23 @@ Pour rédiger en Markdown, c'est très simple. Il vous suffit de taper votre tex
 
 Pour ne pas vous assommer avec des dizaines de balises inutiles, voici les principales qui pourront vous être utiles sur INTERNET EXPLOREUR, et qui sont déjà intégrées dans notre mise en page.
 
-- Titre : écrire deux `##` avant votre titre. 
+- Titre : écrire deux `##` avant votre titre.  
 Exemple : `## Mon titre` 
 
-- Italique : encadrer votre texte avec `*`.
+- Italique : encadrer votre texte avec `*`.  
 Exemple : `*mon texte à mettre en italique*`
 
-- Gras : encadrer votre texte avec `**`.
+- Gras : encadrer votre texte avec `**`.  
 Exemple : `**mon texte à mettre en gras**`
 
 - Retourner à la ligne : faire suivre votre ligne de deux espaces, puis appuyer sur Entrée.
 
-- Citation : précéder vos lignes du symbole `>`.
+- Citation : précéder vos lignes du symbole `>`.  
 Exemple : `> le texte à citer`
 
 - Lien : [ceci est mon lien](https://monlien.com/).
 
-- Note de bas de page : La phrase que je souhaite annoter[^1].
+- Note de bas de page : La phrase que je souhaite annoter[^1].  
 [^1]: Ma note de bas de page.
 
 - Séparateur : faire se suivre trois astérisques `***`.
