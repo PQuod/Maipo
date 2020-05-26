@@ -59,16 +59,16 @@ Retourner à la ligne : faire suivre votre ligne de deux espaces, puis appuyer s
 Citation : précéder vos lignes du symbole `>`.  
 Exemple : `> le texte à citer`
 
-Lien : [ceci est mon lien](https://monlien.com/).
+Lien : `[ceci est mon lien](https://monlien.com/).`
 
-Note de bas de page : La phrase que je souhaite annoter[^1].  
-[^1]: Ma note de bas de page.
+Note de bas de page : `La phrase que je souhaite annoter[^1].  
+[^1]: Ma note de bas de page.`
 
-Séparateur : faire se suivre trois astérisques `***`.
+Séparateur : faire se suivre trois astérisques ainsi : `***`.
 
 Paragraphes : inutile de passer plus d'une ligne entre deux paragraphes, car Markdown ne les reconnaît pas.
 
-Voilà pour les principales balises.
+Et voilà pour les balises principales.
 
 ## Besoin d'aide ?
 
