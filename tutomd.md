@@ -27,7 +27,7 @@ Avant de commencer à écrire dans votre fichier, il faut préciser son format, 
 
 Le format est `.md` ou `.markdown` (les deux fonctionnent). Un fichier type s'appelle donc : `mon-article.md`.
 
-L'en-tête reprend les informations nécessaires pour connaître le titre de votre texte, sa date, sa catégorie et sa mise en page. L'entête est délimité par deux lignes, symbolisées par des tirets. Un en-tête type est donc (les mentions entre parenthèses ne sont pas à écrire dans votre document) :
+L'en-tête reprend les informations nécessaires pour connaître le titre de votre texte, sa date, sa catégorie et sa mise en page. L'en-tête est délimité par deux lignes, symbolisées par des tirets. Un en-tête type est donc (les mentions entre parenthèses ne sont pas à écrire dans votre document) :
 
 > `---`  
 > `layout: post`  
@@ -37,7 +37,7 @@ L'en-tête reprend les informations nécessaires pour connaître le titre de vot
 > `---`
 
 
-Et voilà, une fois le nom de votre fichier indiqué, et cette en-tête intégrée au début de votre document, vous pouvez commencer à rédiger.
+Et voilà, une fois le nom de votre fichier indiqué, et cet en-tête intégré au début de votre document, vous pouvez commencer à rédiger.
 
 ## Rédiger en Markdown
 
