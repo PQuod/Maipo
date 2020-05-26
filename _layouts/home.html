@@ -11,20 +11,21 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts limit:10 -%} 
 
-      <div class="apercu-post">
-        <a class="a-nu" href="{{ post.url | relative_url }}">
+      <div class="apercu-post" role="list">
+        <a class="a-nu" href="{{ post.url | relative_url }}" role="listitem">
              <span class="post-title">{{ post.title | escape }} <br>  </span>
         </a>     
         <span class="post-author">
           {%for item in post.categories%}
             {% assign my_array = item | split: "-" %}
           {{my_array | reverse | join: " " }} 
-          {% endfor%}
+          {%- if forloop.last == false %}, {%- endif -%}
+          {% endfor%} 
           {% for item in post.colab %}
             {% assign my_array = item %}
             & {{my_array | escape }}
           {% endfor %}
-           &#10039;{% include date.html date=post.date %}
+          &#10039;{% include date.html date=post.date %}
         </span><br>
          <div class="line"></div> 
       </div>     
