@@ -7,7 +7,7 @@
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
-        <div class="site-title"><a rel="author" href="{{ '/' | relative_url }}"><span class="underline">{{ site.title | escape }}</span></a>
+        <div class="site-title" role="heading" aria-level="1"><a rel="author" href="{{ '/' | relative_url }}"><span class="underline">{{ site.title | escape }}</span></a>
         </div>
 
         <div class="sub-nav">
@@ -25,7 +25,7 @@
             </label>
             <label class="typo-plus-label" aria-label="Augmenter la typo" for="typo-plus">
              </label>
-            <a href="http://internetexploreur.com/feed.xml" rel='alternate' type='application/atom+xml'><img src="../RSS-icon.png" alt="incone rss" style="width:var(--custom-rss);"/></a>
+            <a href="http://internetexploreur.com/feed.xml" rel='alternate' type='application/atom+xml'>RSS</a>
           </div>
         </div>
       </nav>
