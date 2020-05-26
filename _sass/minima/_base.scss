@@ -10,6 +10,7 @@
   --text-font:serif;
   --contrast-color: linear-gradient(to top, #ef1a63; 50%, rgba(255,255,255,0) 50%);
   --cite-color:#e7e8ea;
+  --custom-rss:13px;
 }
 
 
@@ -32,6 +33,7 @@
   .underline{
   font-size:calc(var(--font-size)*3);
   }
+   --custom-rss:30px;
 }
 
 #typo-dys:checked,
