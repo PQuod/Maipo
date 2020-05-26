@@ -53,6 +53,8 @@ Un email type donne donc quelque chose de ce genre :
 >
 > Pièce jointe : votretexte.doc
 
+Si jamais vous souhaitez rédiger votre texte directement en format Markdown (format utilisé sur ce site), nous avons écrit [un bref tutoriel](https://internetexploreur.com/tuto) pour vous y aider. 
+
 ## Puis-je mettre des images ou des vidéos ?
 
 Non. INTERNET EXPLOREUR prend le parti de ne proposer que de l'écrit. Vous pouvez cependant, bien sûr, intégrer des liens hypertextes ou des notes de bas de page dans vos textes.
