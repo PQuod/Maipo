@@ -34,7 +34,7 @@ layout: page
               {% assign my_array = item %}
             & {{my_array | escape }}</span>
             
-            {%- if forloop.last == false %},  {%- endif -%}
+            {%- if forloop.last == false %},&npsb;{%- endif -%}
         {% endfor %}
       {%- endif -%}
         </h3>
