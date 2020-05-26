@@ -17,7 +17,7 @@ Les textes écrits en Markdown sont directement convertis en HTML, et leur mise 
 
 ## Avec quel logiciel écrire en Markdown ?
 
-Beaucoup de logiciels permettent d'écrire en Markdown. L'un d'entre eux se trouve sur tous les ordinateurs : le bloc-notes. D'autres logiciels, appelés éditeurs de texte, comme Atom, Sublime Text ou Notepad++, offrent des fonctionnalités plus avancées (codes couleur, mise en forme immédiate, etc). Enfin, des logiciels prévus spécifiquement pour rédiger en Markdown, comme iAWriter, ??? ou ???, sont les plus intuitifs, car ils offrent une interface sur mesure et une prévisualisation en direct de vos brouillons.
+Beaucoup de logiciels permettent d'écrire en Markdown. L'un d'entre eux se trouve sur tous les ordinateurs : le bloc-notes. D'autres logiciels, appelés éditeurs de texte, comme [Atom](https://atom.io/), [Sublime Text](https://www.sublimetext.com/) ou [Notepad++](https://notepad-plus-plus.org/), offrent des fonctionnalités plus avancées (codes couleur, mise en forme immédiate, etc). Enfin, des logiciels prévus spécifiquement pour rédiger en Markdown, comme [iA Writer](https://ia.net/writer), ??? ou ???, sont les plus intuitifs, car ils offrent une interface sur mesure et une prévisualisation en direct de vos brouillons.
 
 **Attention** : pour rédiger en Markdown, il ne faut jamais utiliser de logiciels de traitement de texte comme Word, Libre Office ou Pages. En effet, ces logiciels ne vous permettent pas d'écrire de textes en brut. Ce que vous voyez sur votre page Word est déjà le résultat d'un langage brut mis en forme avec tout un ensemble de balises.
 
@@ -29,12 +29,13 @@ Le format est `.md` ou `.markdown` (les deux fonctionnent). Un fichier type s'ap
 
 L'en-tête reprend les informations nécessaires pour connaître le titre de votre texte, sa date, sa catégorie et sa mise en page. L'entête est délimité par deux lignes, symbolisées par des tirets. Un en-tête type est donc (les mentions entre parenthèses ne sont pas à écrire dans votre document) :
 
+> `---`  
+> `layout: post`  
+> `title: "Votre Titre"`  
+> `date: 2020-05-29 (la date du jour)`  
+> `categories: Nom-Prenom (sans accent)`  
 > `---`
-> `layout: post`
-> `title: "Votre Titre"`
-> `date: 2020-05-29 (la date du jour)`
-> `categories: Nom-Prenom (sans accent)`
-> `---`
+
 
 Et voilà, une fois le nom de votre fichier indiqué, et cette en-tête intégrée au début de votre document, vous pouvez commencer à rédiger.
 
@@ -44,28 +45,28 @@ Pour rédiger en Markdown, c'est très simple. Il vous suffit de taper votre tex
 
 Pour ne pas vous assommer avec des dizaines de balises inutiles, voici les principales qui pourront vous être utiles sur INTERNET EXPLOREUR, et qui sont déjà intégrées dans notre mise en page.
 
-- Titre : écrire deux `##` avant votre titre.  
+Titre : écrire deux `##` avant votre titre.  
 Exemple : `## Mon titre` 
 
-- Italique : encadrer votre texte avec `*`.  
+Italique : encadrer votre texte avec `*`.  
 Exemple : `*mon texte à mettre en italique*`
 
-- Gras : encadrer votre texte avec `**`.  
+Gras : encadrer votre texte avec `**`.  
 Exemple : `**mon texte à mettre en gras**`
 
-- Retourner à la ligne : faire suivre votre ligne de deux espaces, puis appuyer sur Entrée.
+Retourner à la ligne : faire suivre votre ligne de deux espaces, puis appuyer sur Entrée.
 
-- Citation : précéder vos lignes du symbole `>`.  
+Citation : précéder vos lignes du symbole `>`.  
 Exemple : `> le texte à citer`
 
-- Lien : [ceci est mon lien](https://monlien.com/).
+Lien : [ceci est mon lien](https://monlien.com/).
 
-- Note de bas de page : La phrase que je souhaite annoter[^1].  
+Note de bas de page : La phrase que je souhaite annoter[^1].  
 [^1]: Ma note de bas de page.
 
-- Séparateur : faire se suivre trois astérisques `***`.
+Séparateur : faire se suivre trois astérisques `***`.
 
-- Paragraphes : inutile de passer plus d'une ligne entre deux paragraphes, car Markdown ne les reconnaît pas.
+Paragraphes : inutile de passer plus d'une ligne entre deux paragraphes, car Markdown ne les reconnaît pas.
 
 Voilà pour les principales balises.
 
