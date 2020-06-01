@@ -2,7 +2,7 @@
 layout: post
 title: "Avec honneur"
 date: 2020-06-01
-categories: Bellon-Serre-Paul
+categories: BellonSerre-Paul
 ---
 
 Le général,  
