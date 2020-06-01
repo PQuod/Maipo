@@ -1,4 +1,4 @@
 ---
 title: Paul Bellon-Serre
-category: BellonSerre-Paul
+category: Bellon-Serre-Paul
 ---
