@@ -2,7 +2,7 @@
 layout: post
 title: "La liste de titres fictifs"
 date: 2020-05-26
-categories: Labrousse-Candice Desaubliaux-Lucie Leclerc-Quentin
+categories: Labrousse_Candice Desaubliaux_Lucie Leclerc_Quentin
 ---
 
 - La longue marche du héron cendré au milieu des marais salants de Guérand un soir de presqu'été
