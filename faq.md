@@ -75,3 +75,7 @@ Vous restez propriétaire de vos textes pour tout autre usage de votre choix. Ce
 Oui et non. Oui, car toute personne invitée à publier sur INTERNET EXPLOREUR, si elle a publié au moins un texte sur le site, peut à son tour inviter 3 autres personnes à publier. Et non car, pour limiter les flux (de fait, la courbe d'invitation est exponentielle), nous instaurons des sas d'invitations. 
 
 En somme, tant que nous ne vous avons pas explicitement autorisé à inviter d'autres personnes, nous préférons que vous ne le fassiez pas (même si vous pouvez évidemment leur en parler).
+
+## Puis-je parler du site autour de moi ?
+
+Oui, évidemment. Comme n'importe quel site internet de création, vous pouvez le diffuser à votre manière, selon votre envie, et en parler dans les réseaux qui vous semblent pertinents (réels comme virtuels). Il n'a pas pour but de cultiver un entre-soi.
