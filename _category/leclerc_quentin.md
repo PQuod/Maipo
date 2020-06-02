@@ -1,4 +1,4 @@
 ---
 title: Quentin Leclerc
-category: Leclerc-Quentin
+category: Leclerc_Quentin
 ---
