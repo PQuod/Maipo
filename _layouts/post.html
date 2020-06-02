@@ -22,7 +22,7 @@ layout: page
         
       {%- if page.categories -%}
         {% for item in page.categories %}
-            <span class="p-author"><a href="../category/{{ item | slugify }}">{% assign my_array = item | split: "-" %}
+            <span class="p-author"><a href="../category/{{ item | slugify }}">{% assign my_array = item | split: "_" %}
         {{my_array | reverse | join: " " }}</a>{%- if forloop.last == false %}, &nbsp; {%- endif -%}
         {% endfor %}
       {%- endif -%}
