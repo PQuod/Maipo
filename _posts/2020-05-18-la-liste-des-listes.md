@@ -2,7 +2,7 @@
 layout: post
 title:  "La liste des listes"
 date:   2020-05-18 12:25:24 +0200
-categories: Labrousse-Candice
+categories: Labrousse_Candice
 ---
 
 - Liste des choses agréables
