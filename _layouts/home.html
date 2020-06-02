@@ -17,7 +17,7 @@ layout: default
         </a>     
         <span class="post-author">
           {%for item in post.categories%}
-            {% assign my_array = item | split: "-" %}
+            {% assign my_array = item | split: "_" %}
           {{my_array | reverse | join: " " }} 
           {%- if forloop.last == false %}, {%- endif -%}
           {% endfor%} 
