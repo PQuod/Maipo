@@ -2,7 +2,7 @@
 layout: post
 title:  "Futur maître de la Ligue Pokémon"
 date:   2020-05-18 12:25:24 +0200
-categories: Leclerc-Quentin
+categories: Leclerc_Quentin
 ---
 
 *J'ai écrit ces poèmes l'année dernière, parce que je me suis dit : pourquoi pas écrire des poèmes.*
