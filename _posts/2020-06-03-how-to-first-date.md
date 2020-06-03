@@ -6,6 +6,7 @@ categories: Beltzung_Charlotte
 ---
 
 Conversation started 2 November  
+
 02/11/2013 15:07  
 **C**  
 what is this huh ?
@@ -18,8 +19,8 @@ what coincidence :----)
 02/11/2013 15:11  
 **C**  
 I like this scene in the movie  
-02/11/2013 15:12
 
+02/11/2013 15:12  
 **JP**  
 because tits?  
 im teasing
