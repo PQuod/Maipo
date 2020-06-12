@@ -19,7 +19,7 @@ Il s'apprête à commencer une longue marche dans le désert
 Semant la mort sur son passage  
 Le soleil rougeâtre au-dessus de sa tête  
 Teinté par les nuages de sable  
-Se cache déjà les imposantes montagnes d'ocre  
+Se cache déjà derrière les imposantes montagnes d'ocre  
 Plus rien ne semble troubler  
 Le terrible silence qu'enveloppe les ténèbres et  
 Les pas vacillants de l'homme  
