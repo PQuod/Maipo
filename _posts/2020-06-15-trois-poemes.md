@@ -13,7 +13,7 @@ Un temps fut long que je ne pensais plus vivre autre chose
 Alors et voilà que  
 Des courses de petits enfants  
 Alors de la boue généreuse  
-Des crachins parsemés
+Des crachins parsemés  
 Viennent à accueillir ces corps rieurs trop heureux de chuter pour encore se relever  
 Là, où il y avait des monceaux de boue jaunie par le soleil  
 Se trame en deux fois deux  
