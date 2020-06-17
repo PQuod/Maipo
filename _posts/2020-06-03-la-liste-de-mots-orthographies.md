@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La liste des titres que je n'arrive toujours pas à orthographier"
+title: "La liste des mots que je n'arrive toujours pas à orthographier"
 date: 2020-06-03
 categories: Labrousse_Candice
 ---
