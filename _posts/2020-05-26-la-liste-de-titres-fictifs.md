@@ -5,7 +5,7 @@ date: 2020-05-26
 categories: Labrousse_Candice Desaubliaux_Lucie Leclerc_Quentin
 ---
 
-- La longue marche du héron cendré au milieu des marais salants de Guérand un soir de presqu'été
+- La longue marche du héron cendré au milieu des marais salants de Guérande un soir de presqu'été
 - Où sont mes clopes
 - Là
 - Il paraît que les homards ne meurent pas de vieillesse
