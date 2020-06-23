@@ -2,7 +2,7 @@
 layout: post
 title: "Qui a tué Rihanna Kayakiste ?"
 date: 2020-06-23
-categories: Clouette_Fabien, Leclerc_Quentin
+categories: clouette_fabien, Leclerc_Quentin
 ---
 
 *On a commencé un roman qui serait juste une liste de personnages déroulant d'un féminicide, et puis ensuite on a eu la flemme de continuer mais le projet va évoluer vers autre chose ; exploiter cette idée de booster l'imagination du lecteur en indiquant seulement le lieu de la scène et les persos présents pour faire émerger une intrigue autour d'un crime.*
@@ -11,7 +11,7 @@ categories: Clouette_Fabien, Leclerc_Quentin
 
 ## MORGUE DE CARNIVAL PLEASURE, LAUREL CANYON AV.
 
-**Rihanna Kayakiste**, interprète musicale victime d’un meurtre
+**Rihanna Kayakiste**, interprète musicale victime d’un meurtre  
 **Toctoc**, caricaturiste et dessinateur d’audience  
 **Eros Moselle**, juge en droit pénal et consultant pour le quotidien *Turbo News*  
 **Pamela Durand**, avocate commise d’office pour la défense de Johns Richmond  
@@ -111,30 +111,30 @@ categories: Clouette_Fabien, Leclerc_Quentin
 
 ## CLUB DE KARAOKÉ ET OPEN MIC *SEMI-PRO SINGING*
 
-**Marcoz**, impresario
-**Anita Raquel Mendoza**, conductrice de bus
-**Christa Finkelstein**, cheffe cuistot
-**Yannick Payot**, enfant passionné par les jeux de cartes
-**Marcia Logitech**, barista titulaire du diplôme national de mixologie
-**Freddy Baudelaire**, ex-mari de Rihanna Kayakiste, propriétaire du karaoke *Semi-Pro Singing*.
-**Horacio Genesis**, cadre sup’ en afterwork
-**Alexandra Baudelaire**, chanteuse,épouse de Freddy Baudelaire
-**Karine Lévrier**, interprète du remix Reggaeton de “Pour le plaisir” (“Pour le kiff”) maîtresse de Freddy Baudelaire
-**Benny Mouton**, concessionnaire auto, habitué du club et fan de musique latino
-**Marcus Huître**, amateur de dry martini
+**Marcoz**, impresario  
+**Anita Raquel Mendoza**, conductrice de bus  
+**Christa Finkelstein**, cheffe cuistot  
+**Yannick Payot**, enfant passionné par les jeux de cartes  
+**Marcia Logitech**, barista titulaire du diplôme national de mixologie  
+**Freddy Baudelaire**, ex-mari de Rihanna Kayakiste, propriétaire du karaoke *Semi-Pro Singing*.  
+**Horacio Genesis**, cadre sup’ en afterwork  
+**Alexandra Baudelaire**, chanteuse,épouse de Freddy Baudelaire  
+**Karine Lévrier**, interprète du remix Reggaeton de “Pour le plaisir” (“Pour le kiff”) maîtresse de Freddy Baudelaire  
+**Benny Mouton**, concessionnaire auto, habitué du club et fan de musique latino  
+**Marcus Huître**, amateur de dry martini  
 **Sloppy Max**, ukulele hero
 
 ## FLEURISTE TOUTES FLEURS ET POINT RELAIS, RUE DES BOUCHERIES
 
-**Virginie Grenier**, fleuriste
-**Jean Rollin**, employé d’EDF, amateur d'orchidées et sosie de John Lennon
-**Louisa N'Golo**, cliente du point relais, aventurière extrêmophile
-**Timothée Caseneuve**, livreur UPS intermittent
-**Felicia Yuseef**, rhumatologue
-**Melting Permafrost**, entrepreneur
+**Virginie Grenier**, fleuriste  
+**Jean Rollin**, employé d’EDF, amateur d'orchidées et sosie de John Lennon  
+**Louisa N'Golo**, cliente du point relais, aventurière extrêmophile  
+**Timothée Caseneuve**, livreur UPS intermittent  
+**Felicia Yuseef**, rhumatologue  
+**Melting Permafrost**, entrepreneur  
 **P’tite Bu**, voix officielle des publicités Picard
 
-## LISTE COMPLÉMENTAIRE DE PERSONNAGES
+## Liste complémentaire de personnages
 
 **Rick Lafrite**, tourneur-fraiseur  
 **Felicia Yuseef**, rhumathologue  
