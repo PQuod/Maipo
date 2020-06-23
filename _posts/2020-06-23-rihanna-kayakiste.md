@@ -42,8 +42,8 @@ categories: Clouette_Fabien Leclerc_Quentin
 **Monique Sinclair**, collègue de Morice Millepatte sur l’affaire de Rihanna Kayakiste  
 **Bénédicte De La Fin**, chargée de communication chez Bounty  
 **Rosemonde Rita Mouton**, collaboratrice pour la gestion des sponsorings, épouse jalouse   
-**Noelle Gollum**, représentante de la franchise sportive des Fusées©, chargée des flocages et kakemonos.  
-**Rodrigue Play**, auditeur externe associé au bureau d'études Play & cie.  
+**Noelle Gollum**, représentante de la franchise sportive des Fusées©, chargée des flocages et kakemonos  
+**Rodrigue Play**, auditeur externe associé au bureau d'études Play & cie  
 **Dick Pastrami**, directeur commercial au bord de la crise de nerfs, soupçonné de harcèlement   
 **Maureen Crunch**, technicienne de surface et épouse de Didier Crunch
 
@@ -116,10 +116,10 @@ categories: Clouette_Fabien Leclerc_Quentin
 **Christa Finkelstein**, cheffe cuistot  
 **Yannick Payot**, enfant passionné par les jeux de cartes  
 **Marcia Logitech**, barista titulaire du diplôme national de mixologie  
-**Freddy Baudelaire**, ex-mari de Rihanna Kayakiste, propriétaire du karaoke *Semi-Pro Singing*.  
+**Freddy Baudelaire**, ex-mari de Rihanna Kayakiste, propriétaire du karaoke *Semi-Pro Singing*  
 **Horacio Genesis**, cadre sup’ en afterwork  
-**Alexandra Baudelaire**, chanteuse,épouse de Freddy Baudelaire  
-**Karine Lévrier**, interprète du remix Reggaeton de “Pour le plaisir” (“Pour le kiff”) maîtresse de Freddy Baudelaire  
+**Alexandra Baudelaire**, chanteuse, épouse de Freddy Baudelaire  
+**Karine Lévrier**, interprète du remix Reggaeton de “Pour le plaisir” (“Pour le kiff”), maîtresse de Freddy Baudelaire  
 **Benny Mouton**, concessionnaire auto, habitué du club et fan de musique latino  
 **Marcus Huître**, amateur de dry martini  
 **Sloppy Max**, ukulele hero
