@@ -2,7 +2,7 @@
 layout: post
 title: "Qui a tué Rihanna Kayakiste ?"
 date: 2020-06-23
-categories: Clouette_Fabien, Leclerc_Quentin
+categories: Clouette_Fabien Leclerc_Quentin
 ---
 
 *On a commencé un roman qui serait juste une liste de personnages déroulant d'un féminicide, et puis ensuite on a eu la flemme de continuer mais le projet va évoluer vers autre chose ; exploiter cette idée de booster l'imagination du lecteur en indiquant seulement le lieu de la scène et les persos présents pour faire émerger une intrigue autour d'un crime.*
