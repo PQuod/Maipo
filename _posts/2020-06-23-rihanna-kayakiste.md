@@ -7,7 +7,7 @@ categories: Clouette_Fabien Leclerc_Quentin
 
 *On a commencé un roman qui serait juste une liste de personnages déroulant d'un féminicide, et puis ensuite on a eu la flemme de continuer mais le projet va évoluer vers autre chose ; exploiter cette idée de booster l'imagination du lecteur en indiquant seulement le lieu de la scène et les persos présents pour faire émerger une intrigue autour d'un crime.*
 
-*Si jamais un éditeur nous file 1000 balles, on le torche en une semaine (s'adresser à notre agent Manu Ruben).*
+*Si jamais un éditeur nous file 1000 balles, on le torche en une semaine (s'adresser à notre agent Manu Ruban).*
 
 ## MORGUE DE CARNIVAL PLEASURE, LAUREL CANYON AV.
 
