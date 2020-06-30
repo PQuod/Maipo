@@ -79,3 +79,5 @@ En somme, tant que nous ne vous avons pas explicitement autorisé à inviter d'a
 ## Puis-je parler du site autour de moi ?
 
 Oui, évidemment. Comme n'importe quel site internet de création, vous pouvez le diffuser à votre manière, selon votre envie, et en parler dans les réseaux qui vous semblent pertinents (réels comme virtuels). Il n'a pas pour but de cultiver un entre-soi.
+
+Cependant, INTERNET EXPLOREUR ne possède aucun réseau social, et ne fera aucune pub de sa propre initiative pour les textes publiés.
