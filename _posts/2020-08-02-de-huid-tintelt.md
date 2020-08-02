@@ -2,7 +2,7 @@
 layout: post
 title: "De huid tintelt"
 date: 2020-08-03
-categories: Abrahams Annie
+categories: Abrahams_Annie
 ---
 
 de huid tintelt,  
