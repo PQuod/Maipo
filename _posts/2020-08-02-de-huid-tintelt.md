@@ -53,7 +53,7 @@ reveilles-toi
 parce qu'elle ne peut se rapprocher - interdiction  
 hélas je pleure
 
-"Nos gestes sont en train de changer», écrivait Vilém Flusser en 1976 dans les Gestes. Il signalait que le geste d’écrire, entre autres, devenait un geste archaïque, dépassé par les événements et les évolutions techniques." Pourtant ...
+"« Nos gestes sont en train de changer », écrivait Vilém Flusser en 1976 dans les Gestes. Il signalait que le geste d’écrire, entre autres, devenait un geste archaïque, dépassé par les événements et les évolutions techniques." Pourtant ...
 
 nos gestes, pestesempestent pestent du geste gesté  
 une vague à contresens  
