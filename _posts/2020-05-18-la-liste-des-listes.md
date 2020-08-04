@@ -12,7 +12,7 @@ categories: Labrousse_Candice
 - Liste des choses à faire
 - Liste des choses à apprendre
 - Liste des choses apprises ces six derniers mois
-- [Liste des mots que je n’arrive toujours pas à orthographier](https://internetexploreur.com/la-liste-de-titres-orthographies/)
+- [Liste des mots que je n’arrive toujours pas à orthographier](https://internetexploreur.com/la-liste-de-mots-orthographies/)
 - Liste de course
 - Liste des plats à cuisiner
 - Liste des films préférés
