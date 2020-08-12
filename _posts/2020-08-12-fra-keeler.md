@@ -8,7 +8,9 @@ colab: Azareen Van Der Vliet Oloomi
 
 *J'avais commencé à traduire le premier roman d'Azareen Van Der Vliet Oloomi, [Fra Keeler](http://dorothyproject.com/book/azareen-van-der-vliet-oloomis-fra-keeler/), sans aller très loin, parce que je me suis rendu compte que cette traduction dépassait complètement mes compétences, comme la plupart des traductions. Et même dans ces quelques paragraphes, beaucoup de choses sont bancales, mais elles existent quand même.*
 
-1. « Elle se trouve sur la crête d’un canyon », m’a dit l’agent immobilier, qui avait tiqué quand j’avais offert d’acheter la maison sans l’avoir visitée auparavant.
+***
+
+« Elle se trouve sur la crête d’un canyon », m’a dit l’agent immobilier, qui avait tiqué quand j’avais offert d’acheter la maison sans l’avoir visitée auparavant.
 
 « D’accord », ai-je dit, même si je n’étais pas tout à fait sûr de ce que l’agent immobilier avait voulu me faire comprendre. Puis je n’ai rien dit pendant un long moment parce que je pensais au décès de Fra Keeler. Puis j’eus l’impression que l’agent immobilier voulait répéter ce qu’il venait de dire, car ses sourcils s’étaient crispés. « Certaines choses ne méritent pas qu’on les examine », ai-je dit, et les sourcils de l’agent immobilier se relâchèrent. « Où sont les documents ? » ai-je demandé ensuite. « Les voilà », dit-il. « J’aimerais les signer », dis-je, et il me les fit glisser sur le bureau avec son majeur. Quel doigt atroce, me souviens-je avoir pensé tout en signant les documents, puis je me suis levé et je suis parti.
 
