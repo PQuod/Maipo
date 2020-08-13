@@ -2,7 +2,7 @@
 layout: post
 title: "Le temps dde ne p&s se dire poouvoir se dire ce qu’on fait"
 date: 2020-08-13
-categories: Maréchal_Omar
+categories: Marechal_Omar
 ---
 
 Moi je comprends pourquoi personne n’est impliqué dans quoi que ce soit ; enfin il y a des gens impliqués. Je le comprends d’autant mieux que je ne suis moi-même plus impliqué. Il y en a qui ne sont pas impliqués du tout, qui ne sont impliqué de rien, ce qui arrive qu’il ne s’implique pas eux même, cause au suicide. Je vois de suite des gens (ou n’est-ce pas seulement moi-même ?) me dire : impliquer pour toi c’est s’appliquer ? Non et oui. S’appliquer ce n’est pas du tout ce que j’essaye de faire maintenant là par exemple. Voilà, c’est répondu. Mais je crois m’impliquer dans ce que je dis, je pense, mais si je pense ça ne s’applique pas ? Et si je ne pense pas puis-je m’impliquer ??. Re-lisez. C’est-à-dire « s’impliquer » ça témoigne, comment je le comprends, de se mobiliser physiquement, ou du moins impliquer du physique, du concret et donc du réel et non du je pense, pour une œuvre, quelque chose. ? // En fait, aujourd’hui, on ne s’applique, non, s’implique, on ne s’implique pas parce que tout se faufile, rien n’est attrapable, ce n’est que de la lumière, tout, partout, qui reflète sur une surface or, et oui or qui brille lui aussi, veau d’or, à moins d’impliquer, non, d’appliquer un poids sur cette surface vous ne ferait rien du tout. En tout cas rien qui n’implique que vous vous impliquiez.
