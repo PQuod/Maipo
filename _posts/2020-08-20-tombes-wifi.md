@@ -6,7 +6,7 @@ categories: Leclerc_Quentin
 colab: Kristie Shoemaker
 ---
 
-*Traduction à l'arrache des trois premiers poèmes du recueil de Kristie Shoemaker paru en 2017 (aux éditions Ghost City Press)[https://ghostcitypress.com/books/do-graves-get-wifi].*
+*Traduction à l'arrache des trois premiers poèmes du recueil de Kristie Shoemaker paru en 2017 [aux éditions Ghost City Press](https://ghostcitypress.com/books/do-graves-get-wifi).*
 
 ## drama queen
 
