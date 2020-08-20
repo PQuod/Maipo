@@ -93,5 +93,5 @@ me laisser me déshabiller dans un réconfort silencieux
 à ne pas confondre avec un silence réconfortant  
 parce que je peux entendre chaque soupir et chaque bouffée d'air remplie de poussière
 
-et ça ne pourra jamais être ignoré 
+et on ne pourra jamais faire comme si ça n'existait pas  
 peu importe à quel point on essaie tous les deux
