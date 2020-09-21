@@ -3,7 +3,6 @@ layout: single
 ---
 
 <div class="auteurs">
-	<div class="trimestre">
 		{%assign sorted_cats = site.categories | sort %}
 				{% for category in sorted_cats %}
 		<a class="a-bloc" href="../category/{{ category[0] | slugify }}">
@@ -11,7 +10,6 @@ layout: single
 				{{my_array | reverse | join: " "}}</a>
 			&#10039;
 		{% endfor %}
-	</div>
 </div>
 
 
