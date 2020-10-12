@@ -1,4 +1,4 @@
 ---
 title: Léo Go
-category: Go_Léo
+category: Go_Leo
 ---
