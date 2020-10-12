@@ -41,13 +41,13 @@ When I slow down I hear a buzz.
 You could never know what it's like  
 Your blood freezes like winter (just like ice)  
 I'm standing still.
--  
+
 A stillness in the room.  
 The stillness of Spaaaaaace  
 mo' air mo' problem  
 mo' body mo' rot  
 and a busy on my mind
--  
+
 Now the soul and it's windows fail  
 But I'm standing still.  
 Now in fly over mental state  
