@@ -8,7 +8,7 @@ categories: Go_Leo
 ## Les graines d'échec
 
 Quand t'es petit les petits t'es-nul se plantent dans ton cerveau  
-ça germent en je-suis-nul  
+ça germe en je-suis-nul  
 en arbuste ch'suis-inutile  
 en arbre robuste je-coûte-au-monde  
 (épine épine et colégrame)  
@@ -20,7 +20,7 @@ loin on nous promet un amour de bûcheron
 mais j'ai qu'un jardinier mou  
 qui attaque à main nue  
 (épine épine et thérapie)  
-la racine hydre d'une foret plus vielle que lui
+la racine hydre d'une foret plus vieille que lui
 
 ## Doux
 
@@ -28,7 +28,7 @@ On ne veut blesser personne
 quand on aime tout le monde est en sucre 
 doux. Doux et fragile  
 comme une fenêtre de film bombardée de cascadeurs  
-On ne peut risquer d'être blessé soit même  
+On ne peut risquer d'être blessé soi-même  
 de peur de mouiller de pleurs les corps glucidiques des gourmands qui vous imitent  
 et n'osent se blesser  
 autrement qu'en fondant sous nos yeux pour nous plaire plus longtemps  
