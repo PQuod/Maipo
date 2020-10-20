@@ -19,7 +19,7 @@ Toute la journée, on entend les départs au starter électrique, le public qui 
 
 La bande-son des concours se propage dans la salle comme dans une piscine couverte. On l’entend dès l’échauffement, qui se fait autour des gradins sur un carrelage qui aurait plutôt trouvé sa place dans un sellier. Échauffement lors duquel les marcheurs·ses regardent les autres dans le blanc des chaussures pour savoir s’il s’agit d’un·e concurrent·e. On reconnaît un·e marcheur·se d’abord à sa semelle qui est plus fine que sur les chaussures de course. On peut confirmer la première information en se tournant vers le visage de la personne : si le regard d’en face est tourné vers vos chaussures c’est assurément un·e concurrent·e.
 
-Les athlètes n’ont le droit de se rendre sur la piste que trente minutes avant le début de leur concours, quand on les enjoint à rejoindre la chambre d’appel.
+Les athlètes n’ont le droit de se rendre sur la piste que trente minutes avant le début de leur concours, quand on les enjoint à rallier la chambre d’appel.
 
 Comme je le disais plus tôt, je me rends au Stadium Bordeaux Lac pour concourir à la marche, sur 2000 puis 3000 m.
 
