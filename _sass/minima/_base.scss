@@ -247,9 +247,13 @@ a:hover {
      }
 
 }
+hr{
+  border:0px;
+  text-align:center;
+}
 
 hr:after{
-content:'&#10039;'
+content:'#10039;'
 }
 
 
