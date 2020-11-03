@@ -35,7 +35,7 @@ je te lèche
 corona corona  
 corona  
 
-(https://youtu.be/oFcO7QSTgOE) Dalida
+(<https://youtu.be/oFcO7QSTgOE> Dalida)
 
 de plus en plus je m'enferme  
 deviens incapable de contact  
@@ -75,7 +75,7 @@ touch is the space of the gap, not the connexion
 corona corona  
 corona
 
-(https://youtu.be/oe2efLqYN6Y) Rocco Granata
+(<https://youtu.be/oe2efLqYN6Y> Rocco Granata)
 
 (*When two hands touch, how close are they? What is the measure of closeness? Which disciplinary knowledge formations, political parties, religious and cultural traditions, infectious disease authorities, immigration officials, and policy makers do not have a stake in, if not a measured answer to, this question? When touch is at issue, nearly everyone's hair stands on end.*) Barad on touch.
 
@@ -87,4 +87,4 @@ corona
 corona corona  
 corona
 
-(https://youtu.be/4QU82n9Zxjg) Willy Alberti
+(<https://youtu.be/4QU82n9Zxjg> Willy Alberti)
