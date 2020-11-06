@@ -5,8 +5,6 @@ date: 2020-11-06
 categories: Godard_Valentin
 ---
 
-## Création de caractère
-
 **+ 1 en arme à une main,**
 **+1 en artisanat**
 
