@@ -5,8 +5,8 @@ date: 2020-11-06
 categories: Godard_Valentin
 ---
 
-**+ 1 en arme à une main,**
-**+1 en artisanat**
+**+ 1 en arme à une main,**  
+**+ 1 en artisanat**
 
 Hier j’ai tué un gobelin  
 ça m’a rendu triste.  
@@ -22,7 +22,7 @@ En bougeant, rythmés,
 nos tendons assouplis  
 ont transformé nos corps.
 
-**+2 de magie**
+**+ 2 de magie**
 
 L’anneau  
 porté à l’oreille  
