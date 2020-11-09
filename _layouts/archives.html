@@ -13,7 +13,7 @@ title: Archives
             {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
             {% if month == "October" or month == "November" or month=="December" %}        
                 <table>
-                  <tr>
+                  <tr class="row-archives">
                     <td>
                       <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                     </td>
