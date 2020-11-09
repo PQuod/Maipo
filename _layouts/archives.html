@@ -39,7 +39,7 @@ title: Archives
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "June" or month == "April" or month=="May" %}        
-        <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | date: '%d %B, %Y' | escape }}</a> 
+        <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | date_to_string | escape }}</a> 
           <span class="archives-separator">&#10039;</span>
     {% endif %}
   {% endif %}
