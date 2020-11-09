@@ -17,7 +17,7 @@ layout: page
                           <a class="a-cat" href="{{ post.url | relative_url }}"><span class="post-list">{{ post.title | | truncate: 50 | escape }}</span></a>
                         </td>
                         <td class="date-cat">
-                         <span class="post-title">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
+                         <span class="post-list">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
                         </td>
                       </tr>          
     {% endfor %}
