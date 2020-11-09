@@ -14,10 +14,10 @@ layout: page
     {% for post in site.categories[page.category] %}
     <tr class="row-cat">
                         <td>
-                          <a class="a-cat" href="{{ post.url | relative_url }}"><span class="post-list">{{ post.title | | truncate: 40 | escape }}</span></a>
+                          <a class="a-cat" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 70 | escape }}</a>
                         </td>
                         <td class="date-cat">
-                         <span class="post-list">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
+                         <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
                         </td>
                       </tr>          
     {% endfor %}
