@@ -47,6 +47,33 @@
     line-height:calc(var(--line-height)*2.5); 
      --font-size:1em;
   }
+  
+   .line {
+        width:95%;
+        height: 30px;
+        border-bottom: 10px solid var(--custom-color);
+        -webkit-transform:
+            translateY(-20px)
+            translateX(5px)
+                        rotate(2deg);
+        position:relative;
+  top:calc(var(--line-height)*3);
+  left:-10px;
+    }
+
+      .line-post {
+        width: 95%;
+        height: 30px;
+        border-bottom: 10px solid var(--custom-color);
+        -webkit-transform:
+            translateY(-20px)
+            translateX(5px)
+            rotate(2deg); 
+position:relative;
+top:var(--line-height);
+left:-10px;
+
+}
    --custom-rss:30px;
 }
 
