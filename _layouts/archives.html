@@ -7,24 +7,24 @@ title: Archives
 
   <div class="trimestre">
       <h2>Tome 3</h2>
-          {% for post in site.posts %}
-          {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-          {% if year == "2020" %}
-            {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
-            {% if month == "October" or month == "November" or month=="December" %}        
-                <table class="table-archives">
-                  <tr class="row-archives">
-                    <td>
-                      <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-                    </td>
-                    <td class="date-archives">
-                     {{ post.date | date_to_string | escape }}
-                    </td>
-                  </tr>          
-             {% endif %}
-          {% endif %}
-         {% endfor %}
-
+        <table class="table-archives">
+              {% for post in site.posts %}
+              {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+              {% if year == "2020" %}
+                {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
+                {% if month == "October" or month == "November" or month=="December" %}        
+                      <tr class="row-archives">
+                        <td>
+                          <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                        </td>
+                        <td class="date-archives">
+                         {{ post.date | date_to_string | escape }}
+                        </td>
+                      </tr>          
+                 {% endif %}
+              {% endif %}
+             {% endfor %}
+        </table>
 
     
       <h2>Tome 2</h2>
@@ -52,7 +52,7 @@ title: Archives
  {% endfor %}
 
   
-    </table>
+
 
 
 
