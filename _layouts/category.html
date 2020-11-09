@@ -11,11 +11,18 @@ layout: page
 </div>
 <div class="liste-textes-auteur">
 
-<ul>
+ <table class="table-archives">
     {% for post in site.categories[page.category] %}
-    <li class="liste-textes">&#10039; <a class="a-nu" href="{{ post.url | relative_url }}">{{ post.title }}</a> &#10039;</li>
+    <tr class="row-archives">
+                        <td>
+                          <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 30 | escape }}</a>
+                        </td>
+                        <td class="date-archives">
+                         &#10040; {{ post.date | date: "%d/%m/%Y" | escape }}
+                        </td>
+                      </tr>          
     {% endfor %}
 
-</ul>
+</table>
 </div>
 </div>
