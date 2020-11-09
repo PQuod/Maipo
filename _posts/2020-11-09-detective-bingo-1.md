@@ -41,7 +41,7 @@ Dis donc ! Ce ne serait pas mon bonhomme en cire Babybel qui dépasse de la tr
 — Mais Professeur Bingo c’est le mien enfin.  
 — Menteur ! je lui réplique.
 
-Le voilà obligé de s’avancer honteux jusqu’à mon bureau. Il est nul Anthony, il aurait pu mieux le cacher. En plus c’est dommage qu’il n’essaye pas de se faire surnommer Tony, ça fait caïd. Mais oui évidement !
+Le voilà obligé de s’avancer honteux jusqu’à mon bureau. Il est nul Anthony, il aurait pu mieux le cacher. En plus c’est dommage qu’il n’essaye pas de se faire surnommer Tony, ça fait caïd. Mais oui évidemment !
  
 HYPOTHÈSE N°1 : Anthony Délire a dérobé mon bonhomme en cire Babybel afin de s’en vanter auprès de ses camarades et ainsi se faire surnommer Tony ou caïd ou les deux.
  
@@ -49,9 +49,9 @@ Non, trop compliqué. Pourquoi a-t-il volé mon bonhomme en cire Babybel alors ?
  
 HYPOTHÈSE N°2 : Anthony Délire a dérobé mon bonhomme en cire Babybel car j’ai dessiné des visages dans les zéros de sa copie.
  
-Impossible, je lui ai rendu après le repas. Alors pourquoi ? Il me donne la sculpture mais stupéfaction, ce n’est pas la mienne.
+Impossible, je la lui ai rendue après le repas. Alors pourquoi ? Il me donne la sculpture mais stupéfaction, ce n’est pas la mienne.
 
-Celle-ci est beaucoup moins bien faite et je ne vais pas m’empêcher de lui faire remarquer.
+Celle-ci est beaucoup moins bien faite et je ne vais pas m’empêcher de le lui faire remarquer.
 
 — C’est peu appliqué Tony, retournez à votre place.
 
