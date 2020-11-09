@@ -23,11 +23,12 @@ title: Archives
                   </tr>          
              {% endif %}
           {% endif %}
+         {% endfor %}
 
 
     
       <h2>Tome 2</h2>
-
+{% for post in site.posts %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
@@ -36,10 +37,10 @@ title: Archives
           <span class="archives-separator">&#10039;</span>
     {% endif %}
   {% endif %}
-
+{% endfor %}
     
   <h2>Tome 1</h2>
-
+{% for post in site.posts %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
