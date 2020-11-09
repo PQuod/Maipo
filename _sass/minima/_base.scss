@@ -218,6 +218,20 @@ font-family:sans-serif;
   background-size: 100% 100%;
 }
 
+.a-cat{
+  color:var(--a-font-color);
+font-family:sans-serif;
+  background:none;
+  font-size:var(--font-size);
+}
+
+.a-cat:hover{
+  background: var(--lines);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+
 @media all and (max-device-width: 700px)
 {
 
@@ -267,6 +281,11 @@ a:hover {
 .a-archives:hover{
   background:none;
   }
+  
+  .a-cat:hover{
+  background:none;
+  }
+
 
 }
 hr{
