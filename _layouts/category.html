@@ -10,13 +10,13 @@ layout: page
 <div class="archives">
 <div class="trimestre">
 
- <table class="table-archives">
+ <table class="table-cat">
     {% for post in site.categories[page.category] %}
     <tr class="row-archives">
                         <td>
-                          <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 70 | escape }}</a>
+                          <a class="a-cat" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 70 | escape }}</a>
                         </td>
-                        <td class="date-archives">
+                        <td class="date-cat">
                          <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
                         </td>
                       </tr>          
