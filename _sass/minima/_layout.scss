@@ -205,7 +205,12 @@ text-align:right;
  padding-bottom:calc(var(--line-height)*2);
   }
 
-
+.tous-textes{
+    line-height:calc(var(--line-height)*1.5);
+  font-family: sans-serif;
+  font-size:calc(var(--font-size)*1.5);
+  text-align:center;
+}
 
    /**
   *Archives
