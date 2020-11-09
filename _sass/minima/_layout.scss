@@ -376,6 +376,11 @@ font-family:serif;
 
 @media all and (max-device-width: 800px)
 {
+    
+ 
+.date-archives{
+    display:none;
+    }
 
 .menu-page-title:hover{
   background-size: 100% 100%;
@@ -455,8 +460,4 @@ left:-10px;
 .typo-plus-checkbox:checked ~ .theme-container .typo-plus-label::before {
   display:none;
 }
-
-.date-archives{
-    display:none;
-    }
 }
