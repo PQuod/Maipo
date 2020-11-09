@@ -12,6 +12,8 @@
   --cite-color:#e7e8ea;
   --custom-rss:13px;
 }
+
+
 #dark-mode:checked,
 #dark-mode:checked ~ .theme-container {
   --bg-color: #333;
@@ -31,33 +33,12 @@
   .underline{
   font-size:calc(var(--font-size)*3);
   }
-  
-   .line {
-        width:95%;
-        height: 30px;
-        border-bottom: 10px solid var(--custom-color);
-        -webkit-transform:
-            translateY(-20px)
-            translateX(5px)
-                        rotate(2deg);
-        position:relative;
-  top:calc(var(--line-height)*3);
-  left:-10px;
-    }
-
-      .line-post {
-        width: 95%;
-        height: 30px;
-        border-bottom: 10px solid var(--custom-color);
-        -webkit-transform:
-            translateY(-20px)
-            translateX(5px)
-            rotate(2deg); 
-position:relative;
-top:var(--line-height);
-left:-10px;
-
-}
+  .date-archives{
+    display:none;
+  }
+  .row-archives{
+    line-height:calc(var(--line-height)*2.5);
+  }
    --custom-rss:30px;
 }
 
@@ -112,10 +93,6 @@ h2{
   margin-bottom:var(--line-height);
 }
 
-p{
-  font-size:var(--font-size);
-}
-
 article h2{
   margin-top:calc(var(--line-height)*3);
 }
@@ -126,6 +103,10 @@ hr{
 
 li{
 list-style-type: none;
+}
+
+td{
+  font-size:var(--font-size);
 }
 
 .text-content li:before {
@@ -231,6 +212,7 @@ background:none;
   color:var(--a-font-color);
 font-family:sans-serif;
   background:none;
+  font-size:var(--font-size);
 }
 
 .a-archives:hover{
@@ -243,7 +225,7 @@ font-family:sans-serif;
   color:var(--a-font-color);
 font-family:sans-serif;
   background:none;
-  font-size:calc(var(--font-size)*1.1);
+  font-size:calc(var(--font-size)*1.2);
 }
 
 .a-cat:hover{
@@ -318,9 +300,3 @@ hr{
 hr:after{
 content:'\2738'
 }
-
-
-
-
-
-
