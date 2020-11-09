@@ -18,7 +18,7 @@ title: Archives
                           <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 30 | escape }}</a>
                         </td>
                         <td class="date-archives">
-                         {{ post.date | date_to_string | escape }}
+                         &#10040; {{ post.date | date: "%d/%m/%Y" | escape }}
                         </td>
                       </tr>          
                  {% endif %}
