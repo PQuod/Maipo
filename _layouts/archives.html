@@ -28,28 +28,44 @@ title: Archives
 
     
       <h2>Tome 2</h2>
+    <table class="table-archives">
 {% for post in site.posts %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "July" or month == "August" or month=="September" %}        
-        <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> 
-          <span class="archives-separator">&#10039;</span>
+       <tr class="row-archives">
+                        <td>
+                          <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 30 | escape }}</a>
+                        </td>
+                        <td class="date-archives">
+                         &#10040; {{ post.date | date: "%d/%m/%Y" | escape }}
+                        </td>
+                      </tr>          
     {% endif %}
   {% endif %}
 {% endfor %}
+    </table>
     
   <h2>Tome 1</h2>
+      <table class="table-archives">
 {% for post in site.posts %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2020" %}
     {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
     {% if month == "June" or month == "April" or month=="May" %}        
-        <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> 
-          <span class="archives-separator">&#10039;</span>
+        <tr class="row-archives">
+                        <td>
+                          <a class="a-bloc" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 30 | escape }}</a>
+                        </td>
+                        <td class="date-archives">
+                         &#10040; {{ post.date | date: "%d/%m/%Y" | escape }}
+                        </td>
+                      </tr>          
     {% endif %}
   {% endif %}
  {% endfor %}
+    </table>
 
   
 
