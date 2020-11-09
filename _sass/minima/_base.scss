@@ -1,19 +1,18 @@
 :root {
   --bg-color: #f2f2f2;
   --font-color: #333333;
-  --font-size:20px;
+  --font-size:1em;
+  --font-size:12px;
   --line-height:20px;
   --a-font-color: #333333;
   --custom-color: cyan;
   --lines: linear-gradient(to top, cyan 50%, rgba(255,255,255,0) 50%);
-  --text-width: 35em;
+  --text-width: 40em;
   --text-font:serif;
   --contrast-color: linear-gradient(to top, #ef1a63; 50%, rgba(255,255,255,0) 50%);
   --cite-color:#e7e8ea;
   --custom-rss:13px;
 }
-
-
 #dark-mode:checked,
 #dark-mode:checked ~ .theme-container {
   --bg-color: #333;
@@ -27,9 +26,9 @@
 
 #typo-plus:checked,
 #typo-plus:checked ~ .theme-container {
-  --font-size:30px;
+  --font-size:1.5em;
   --line-height:30px;
-  --text-width:45em;
+  --text-width:60em;
   .underline{
   font-size:calc(var(--font-size)*3);
   }
