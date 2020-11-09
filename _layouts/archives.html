@@ -15,10 +15,10 @@ title: Archives
                 {% if month == "October" or month == "November" or month=="December" %}        
                       <tr class="row-archives">
                         <td>
-                          <a class="a-archives" href="{{ post.url | relative_url }}"><span class="post-list">{{ post.title | | truncate: 40 | escape }}</span></a>
+                          <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 50 | escape }}</a>
                         </td>
                         <td class="date-archives">
-                          <span class="post-list">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
+                          <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
                         </td>
                       </tr>          
                  {% endif %}
@@ -37,10 +37,10 @@ title: Archives
     {% if month == "July" or month == "August" or month=="September" %}        
        <tr class="row-archives">
                         <td>
-                          <a class="a-archives" href="{{ post.url | relative_url }}"><span class="post-list">{{ post.title | | truncate: 40 | escape }}</span></a>
+                          <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 50 | escape }}</a>
                         </td>
                         <td class="date-archives">
-                        <span class="post-list">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}<span>
+                        <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}<span>
                         </td>
                       </tr>          
     {% endif %}
@@ -59,10 +59,10 @@ title: Archives
     {% if month == "June" or month == "April" or month=="May" %}        
         <tr class="row-archives">
                         <td>
-                          <a class="a-archives" href="{{ post.url | relative_url }}"><span class="post-list">{{ post.title | | truncate: 40 | escape }}</span></a>
+                          <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 50 | escape }}</a>
                         </td>
                         <td class="date-archives">
-                          <span class="post-list">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
+                          <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
                         </td>
                       </tr>          
     {% endif %}
@@ -72,4 +72,3 @@ title: Archives
 
 
 </div>
-
