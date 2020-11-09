@@ -36,8 +36,14 @@
   .date-archives{
     display:none;
   }
+  .date-cat{
+    display:none;
+  }
   .row-archives{
     line-height:calc(var(--line-height)*2.5);
+  }
+  .row-cat{
+    line-height:calc(var(--line-height)*2.5); 
   }
    --custom-rss:30px;
 }
