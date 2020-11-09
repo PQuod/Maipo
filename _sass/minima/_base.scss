@@ -6,7 +6,7 @@
   --a-font-color: #333333;
   --custom-color: cyan;
   --lines: linear-gradient(to top, cyan 50%, rgba(255,255,255,0) 50%);
-  --text-width: 30em;
+  --text-width: 35em;
   --text-font:serif;
   --contrast-color: linear-gradient(to top, #ef1a63; 50%, rgba(255,255,255,0) 50%);
   --cite-color:#e7e8ea;
@@ -29,7 +29,7 @@
 #typo-plus:checked ~ .theme-container {
   --font-size:30px;
   --line-height:30px;
-  --text-width:40em;
+  --text-width:45em;
   .underline{
   font-size:calc(var(--font-size)*3);
   }
