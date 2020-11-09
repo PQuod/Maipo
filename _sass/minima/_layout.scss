@@ -217,6 +217,10 @@ text-align:right;
    /**
   *Archives
   */
+.post-list{
+    font-size:calc(var(--font-size)*1.2);
+    line-height:calc(var(--line-height)*1.2);
+}
 
   .archives{
   max-width:var(--text-width);
