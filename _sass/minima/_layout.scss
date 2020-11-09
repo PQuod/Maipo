@@ -261,7 +261,6 @@ text-align:right;
       text-align:justify;
 }
 
-
 /**
 *Auteurs single
 */
@@ -295,7 +294,18 @@ text-align:right;
   font-size:calc(var(--font-size)*1.2);
 }
 
+.table-cat{
+    width:100%;
+}
 
+
+.row-cat{
+    width:100%;
+}
+
+.date-cat{
+    text-align:right;
+}
 
 
   /**
