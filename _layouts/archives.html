@@ -18,7 +18,7 @@ title: Archives
                           <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 50 | escape }}</a>
                         </td>
                         <td class="date-archives">
-                         &#10040; {{ post.date | date: "%d/%m/%Y" | escape }}
+                          <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
                         </td>
                       </tr>          
                  {% endif %}
@@ -40,7 +40,7 @@ title: Archives
                           <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 50 | escape }}</a>
                         </td>
                         <td class="date-archives">
-                         &#10040; {{ post.date | date: "%d/%m/%Y" | escape }}
+                        <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}<span>
                         </td>
                       </tr>          
     {% endif %}
