@@ -374,7 +374,7 @@ font-family:serif;
 
 
 
-@media all and (max-device-width: 700px)
+@media all and (max-device-width: 800px)
 {
 
 .menu-page-title:hover{
@@ -456,5 +456,7 @@ left:-10px;
   display:none;
 }
 
-
+.date-archives{
+    display:none;
+    }
 }
