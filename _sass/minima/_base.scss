@@ -41,9 +41,11 @@
   }
   .row-archives{
     line-height:calc(var(--line-height)*2.5);
+    --font-size:1em;
   }
   .row-cat{
     line-height:calc(var(--line-height)*2.5); 
+     --font-size:1em;
   }
    --custom-rss:30px;
 }
