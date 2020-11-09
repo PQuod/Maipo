@@ -114,6 +114,10 @@ h2{
   margin-bottom:var(--line-height);
 }
 
+p{
+  font-size:var(--font-size);
+}
+
 article h2{
   margin-top:calc(var(--line-height)*3);
 }
