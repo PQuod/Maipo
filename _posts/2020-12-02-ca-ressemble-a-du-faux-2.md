@@ -272,7 +272,7 @@ En équilibre entre ce qui est vrai et ce qui ne l'est pas, Marie-Laure appelle 
 
 **[Juste avant la nuit - Au pied de la statue - Plein Ouest]**
 
-> C'est allumé à la bonne glace
+> C'est allumé à la bonne glace.  
 Richard Brautigan, *Tokyo-Montana Express*
 
 > La voix d'Elizabeth avait une porte à l'intérieur. Quand on ouvrait cette porte, on trouvait une autre porte et cette porte ouvrait encore une autre porte. Toutes les portes étaient jolies et menaient en-dehors d'elle.  
