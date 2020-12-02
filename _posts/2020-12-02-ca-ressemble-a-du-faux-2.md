@@ -310,7 +310,7 @@ Marie-Laure rit du sérieux avec un sérieux exemplaire. Marie-Laure rit de tout
 
 ***
 
-*Je suis très heureuse d’avoir écrit ta nouvelle pièce.*
+*Je suis très heureuse d’avoir écris ta nouvelle pièce.*
 
 <br>
 <br>
