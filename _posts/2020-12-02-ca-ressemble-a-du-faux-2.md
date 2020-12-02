@@ -60,7 +60,7 @@ Tu maîtrises l'art de la pâte feuilletée. 
 
 **[Cuisine – Intérieur petit matin d'insomnie – Café]**
 
->« Nouveau dans le pays, je suis encore dans la phase où tout ce que je vois a une valeur propre parce que je ne sais quelle valeur lui attribuer. [...] Lorsque tout aura trouvé un ordre et une place dans mon esprit, je commencerai à ne trouver plus rien digne d'intérêt, à ne plus voir ce que je vois. Parce que voir, cela signifie percevoir des différences, et dès que les différences s'uniformisent en un quotidien prévisible, le regard court sur une surface libre et sans prises. Voyager ne sert pas beaucoup à comprendre [...], mais sert à réactiver pendant un instant l'usage des yeux : la lecture du monde. »  
+> Nouveau dans le pays, je suis encore dans la phase où tout ce que je vois a une valeur propre parce que je ne sais quelle valeur lui attribuer. [...] Lorsque tout aura trouvé un ordre et une place dans mon esprit, je commencerai à ne trouver plus rien digne d'intérêt, à ne plus voir ce que je vois. Parce que voir, cela signifie percevoir des différences, et dès que les différences s'uniformisent en un quotidien prévisible, le regard court sur une surface libre et sans prises. Voyager ne sert pas beaucoup à comprendre [...], mais sert à réactiver pendant un instant l'usage des yeux : la lecture du monde.  
 Italo Calvino, *Collection de sable*
 
 ***
@@ -164,7 +164,7 @@ Qu'est-ce qui est vrai et qu'est-ce qui ne l'est pas ?
 
 **[Train – intérieur voiture 13 place assise 78 – trop tard pour un sandwich]**
 
->« Pour le contemplateur d'habitude ou de profession, la fenêtre du wagon ressemble au vase de Tantale. Elle s'emplit par un côté et se vide aussitôt par l'autre. On n'y met pas la lèvre pour boire une eau donnée, que cette eau déjà s'en retire. »  
+> Pour le contemplateur d'habitude ou de profession, la fenêtre du wagon ressemble au vase de Tantale. Elle s'emplit par un côté et se vide aussitôt par l'autre. On n'y met pas la lèvre pour boire une eau donnée, que cette eau déjà s'en retire.   
 Francis Ponge, *Méthodes*
 
 ***
