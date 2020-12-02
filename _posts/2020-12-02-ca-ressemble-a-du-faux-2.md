@@ -54,7 +54,9 @@ La documentation devient elle-même une pièce, elle ne peut pas simplement poin
 
 Tu maîtrises l'art de la pâte feuilletée. 
 
-***
+<br>
+<br>
+
 
 **[Cuisine – Intérieur petit matin d'insomnie – Café]**
 
@@ -158,7 +160,8 @@ Qu'est-ce qui est vrai et qu'est-ce qui ne l'est pas ?
 
 *Mais bien sûr, je le sais bien Marie-Laure, je sais bien que TOUT est réel, que n'importe quel réel existe, et qu'il n'y a pas besoin que ça soit du vrai. Laisse-moi juste le temps de bien me secouer du réel monocouche, peau de chagrin et sans saveur que je percevais auparavant.*
 
-***
+<br>
+<br>
 
 **[Train – intérieur voiture 13 place assise 78 – trop tard pour un sandwich]**
 
@@ -206,7 +209,8 @@ Marie-Laure a un jour représenté la pensée comme un boomerang, dont l'ellipse
 
 *Tu as toujours très bien chanté Varum.*
 
-***
+<br>
+<br>
 
 **[Fenêtre – Intérieur soleil – Poussière dans rai de lumière]**
 
@@ -268,7 +272,8 @@ En équilibre entre ce qui est vrai et ce qui ne l'est pas, Marie-Laure appelle 
 
 *Ton travail est partout. Il s’auto-génère même. Tu n’as plus besoin d’intervenir pour que l’inframince existe tout seul et que nous reconnaissions l’écho de ta voix passée ou à venir. Si ce que tu dis est ce que tu ne dis pas, alors tu ce que tu ne dis pas peut devenir ce que tu dis. Je te vois dans chaque instant de ton absence. Tu t’es rendue omniprésente.*
 
-***
+<br>
+<br>
 
 **[Juste avant la nuit - Au pied de la statue - Plein Ouest]**
 
