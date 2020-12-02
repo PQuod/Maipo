@@ -60,9 +60,8 @@ Tu maîtrises l'art de la pâte feuilletée. 
 
 **[Cuisine – Intérieur petit matin d'insomnie – Café]**
 
->« Nouveau dans le pays, je suis encore dans la phase où tout ce que je vois a une valeur propre parce que je ne sais quelle valeur lui attribuer. [...] Lorsque tout aura trouvé un ordre et une place dans mon esprit, je commencerai à ne trouver plus rien digne d'intérêt, à ne plus voir ce que je vois. Parce que voir, cela signifie percevoir des différences, et dès que les différences s'uniformisent en un quotidien prévisible, le regard court sur une surface libre et sans prises. Voyager ne sert pas beaucoup à comprendre [...], mais sert à réactiver pendant un instant l'usage des yeux : la lecture du monde. »
-
->Italo Calvino, *Collection de sable*
+>« Nouveau dans le pays, je suis encore dans la phase où tout ce que je vois a une valeur propre parce que je ne sais quelle valeur lui attribuer. [...] Lorsque tout aura trouvé un ordre et une place dans mon esprit, je commencerai à ne trouver plus rien digne d'intérêt, à ne plus voir ce que je vois. Parce que voir, cela signifie percevoir des différences, et dès que les différences s'uniformisent en un quotidien prévisible, le regard court sur une surface libre et sans prises. Voyager ne sert pas beaucoup à comprendre [...], mais sert à réactiver pendant un instant l'usage des yeux : la lecture du monde. »  
+Italo Calvino, *Collection de sable*
 
 ***
 
@@ -165,9 +164,8 @@ Qu'est-ce qui est vrai et qu'est-ce qui ne l'est pas ?
 
 **[Train – intérieur voiture 13 place assise 78 – trop tard pour un sandwich]**
 
->« Pour le contemplateur d'habitude ou de profession, la fenêtre du wagon ressemble au vase de Tantale. Elle s'emplit par un côté et se vide aussitôt par l'autre. On n'y met pas la lèvre pour boire une eau donnée, que cette eau déjà s'en retire. »
-
->Francis Ponge, *Méthodes*
+>« Pour le contemplateur d'habitude ou de profession, la fenêtre du wagon ressemble au vase de Tantale. Elle s'emplit par un côté et se vide aussitôt par l'autre. On n'y met pas la lèvre pour boire une eau donnée, que cette eau déjà s'en retire. »  
+Francis Ponge, *Méthodes*
 
 ***
 
@@ -214,15 +212,12 @@ Marie-Laure a un jour représenté la pensée comme un boomerang, dont l'ellipse
 
 **[Fenêtre – Intérieur soleil – Poussière dans rai de lumière]**
 
->« Une des fonctions de l'art est la relecture permanente de la réalité. »
+>Une des fonctions de l'art est la relecture permanente de la réalité.
+Giuseppe Penone
 
->Giuseppe Penone
-
->« Au possible découvert grâce au Moulin à café, Duchamp donne aussi un autre nom : "l’inframince". L’inframince est la dimension du moléculaire, des petites perceptions, des différences infinitésimales, de la co-intelligence des contraires, au sein de laquelle les lois de la dimen¬sion macro et notamment celles de la causalité, de la logique de la non-contradiction, du langage et de ses généralisations, du temps chronologique, ne valent pas. C’est dans l’inframince que le devenir a lieu, c’est au niveau micro que se font les changements. « Le possible implique le devenir – le passage de l’un à l’autre a lieu dans l’inframince. »
-
->« Et pour avoir accès à cette dimension, la condition est toujours la même – inventer une autre manière de vivre : "l’habitant de l’inframince fainéant." »
-
->Maurizzio Lazzarato, *Marcel Duchamp et le refus du travail*
+>Au possible découvert grâce au Moulin à café, Duchamp donne aussi un autre nom : "l’inframince". L’inframince est la dimension du moléculaire, des petites perceptions, des différences infinitésimales, de la co-intelligence des contraires, au sein de laquelle les lois de la dimen¬sion macro et notamment celles de la causalité, de la logique de la non-contradiction, du langage et de ses généralisations, du temps chronologique, ne valent pas. C’est dans l’inframince que le devenir a lieu, c’est au niveau micro que se font les changements. « Le possible implique le devenir – le passage de l’un à l’autre a lieu dans l’inframince.  
+Et pour avoir accès à cette dimension, la condition est toujours la même – inventer une autre manière de vivre : "l’habitant de l’inframince fainéant."  
+Maurizzio Lazzarato, *Marcel Duchamp et le refus du travail*
 
 ***
 
@@ -277,13 +272,11 @@ En équilibre entre ce qui est vrai et ce qui ne l'est pas, Marie-Laure appelle 
 
 **[Juste avant la nuit - Au pied de la statue - Plein Ouest]**
 
->« C'est allumé à la bonne glace »
+> C'est allumé à la bonne glace
+Richard Brautigan, *Tokyo-Montana Express*
 
->Richard Brautigan, *Tokyo-Montana Express*
-
->« La voix d'Elizabeth avait une porte à l'intérieur. Quand on ouvrait cette porte, on trouvait une autre porte et cette porte ouvrait encore une autre porte. Toutes les portes étaient jolies et menaient en-dehors d'elle. »
-
->Richard Brautigan, *Un général sudiste de Big Sur*
+> La voix d'Elizabeth avait une porte à l'intérieur. Quand on ouvrait cette porte, on trouvait une autre porte et cette porte ouvrait encore une autre porte. Toutes les portes étaient jolies et menaient en-dehors d'elle.  
+Richard Brautigan, *Un général sudiste de Big Sur*
 
 ***
 
@@ -321,6 +314,5 @@ Marie-Laure rit du sérieux avec un sérieux exemplaire. Marie-Laure rit de tout
 <br>
 <br>
 
->« L'art, c'est bien. Le poker, c'est mieux. »
-
->Marie-Laure Gucciardi
+> L'art, c'est bien. Le poker, c'est mieux.  
+Marie-Laure Gucciardi
