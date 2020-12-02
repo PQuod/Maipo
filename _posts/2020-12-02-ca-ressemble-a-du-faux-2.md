@@ -4,7 +4,7 @@ title: "Ça ressemble à du faux II"
 date: 2020-12-02
 categories: Desaubliaux_Lucie
 ---
-*Texte de recherche à propos du travail de l'artiste Marie-Laure Gucciardi (et de notre amitié). (Des petits bouts de ces recherches sont visibles [ici](https://vimeo.com/user8869506), le reste est à chercher dans l'infra-mince.)*
+*Texte de recherche à propos du travail de l'artiste Marie-Laure Gucciardi. (Des petits bouts de ses recherches sont visibles [ici](https://vimeo.com/user8869506), le reste est à chercher dans l'infra-mince.)*
 
 ## Ça ressemble à du faux II
 
