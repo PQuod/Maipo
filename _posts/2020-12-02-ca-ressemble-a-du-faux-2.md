@@ -59,7 +59,8 @@ Tu maîtrises l'art de la pâte feuilletée. 
 **[Cuisine – Intérieur petit matin d'insomnie – Café]**
 
 >"Nouveau dans le pays, je suis encore dans la phase où tout ce que je vois a une valeur propre parce que je ne sais quelle valeur lui attribuer. [...] Lorsque tout aura trouvé un ordre et une place dans mon esprit, je commencerai à ne trouver plus rien digne d'intérêt, à ne plus voir ce que je vois. Parce que voir, cela signifie percevoir des différences, et dès que les différences s'uniformisent en un quotidien prévisible, le regard court sur une surface libre et sans prises. Voyager ne sert pas beaucoup à comprendre [...], mais sert à réactiver pendant un instant l'usage des yeux : la lecture du monde."
-Italo Calvino, Collection de sable
+
+>Italo Calvino, *Collection de sable*
 
 ***
 
@@ -158,7 +159,7 @@ Qu'est-ce qui est vrai et qu'est-ce qui ne l'est pas ?
 *Mais bien sûr, je le sais bien Marie-Laure, je sais bien que TOUT est réel, que n'importe quel réel existe, et qu'il n'y a pas besoin que ça soit du vrai. Laisse-moi juste le temps de bien me secouer du réel monocouche, peau de chagrin et sans saveur que je percevais auparavant.*
 
 ***
- 
+
 **[Train – intérieur voiture 13 place assise 78 – trop tard pour un sandwich]**
 
 >"Pour le contemplateur d'habitude ou de profession, la fenêtre du wagon ressemble au vase de Tantale. Elle s'emplit par un côté et se vide aussitôt par l'autre. On n'y met pas la lèvre pour boire une eau donnée, que cette eau déjà s'en retire."
@@ -215,7 +216,7 @@ Marie-Laure a un jour représenté la pensée comme un boomerang, dont l'ellipse
 
 >« Au possible découvert grâce au Moulin à café, Duchamp donne aussi un autre nom : « l’inframince ». L’inframince est la dimension du moléculaire, des petites perceptions, des différences infinitésimales, de la co-intelligence des contraires, au sein de laquelle les lois de la dimen¬sion macro et notamment celles de la causalité, de la logique de la non-contradiction, du langage et de ses généralisations, du temps chronologique, ne valent pas. C’est dans l’inframince que le devenir a lieu, c’est au niveau micro que se font les changements. « Le possible implique le devenir – le passage de l’un à l’autre a lieu dans l’inframince. »
 
->Et pour avoir accès à cette dimension, la condition est toujours la même – inventer une autre manière de vivre : « l’habitant de l’inframince fainéant. »
+>« Et pour avoir accès à cette dimension, la condition est toujours la même – inventer une autre manière de vivre : "l’habitant de l’inframince fainéant." »
 
 >Maurizzio Lazzarato, *Marcel Duchamp et le refus du travail*
 
@@ -293,7 +294,7 @@ Il faut déjouer la folie par l'humour. Ce n'est pas sa queue qui étouffe le se
 
 ***
 
-*Tes idées naissent toujours blagues. Jamais plaisanteries ne m'ont fait autant réfléchir. *
+*Tes idées naissent toujours blagues. Jamais plaisanteries ne m'ont fait autant réfléchir.*
 
 ***
 
@@ -311,9 +312,9 @@ Marie-Laure rit du sérieux avec un sérieux exemplaire. Marie-Laure rit de tout
 
 *Je suis très heureuse d’avoir écrit ta nouvelle pièce.*
 
-***
-***
-***
+<br>
+<br>
+<br>
 
 >"L'art, c'est bien. Le poker, c'est mieux."
 
