@@ -5,6 +5,8 @@ date: 2020-11-20
 categories: Robert-Foley_Lily
 ---
 
+*Traduit de l'anglais par DeepL*
+
 « Hé, tu te souviens quand cet oiseau a chié sur ta thèse ? » dit Ninon, son corps comme une clé à l'ancienne : mince et élégant, transportant même l'observateur occasionnel dans une rêverie de récits possibles, « c’était crashant ». Elle avait une beauté agaçante héritée de leur mère. Bien sûr, le père de Ninon avait été mince lui aussi, pensait Brune, à chaque fois, avec une amertume préhistorique renouvelée.
 
 « Le premier chapitre de ma thèse », répondit Brune, qui se voyait plutôt comme une pomme de terre. Le souvenir d'Helen, sa directrice de thèse décédée, et de ses excentricités peu pratiques, obligeant le département à financer la coûteuse impression sur papier des travaux de ses étudiants, a provoqué un reflux de chagrin non digéré.  
