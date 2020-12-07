@@ -5,6 +5,8 @@ date: 2020-11-13
 categories: Robert-Foley_Lily
 ---
 
+*Traduit de l'anglais par DeepL*
+
 Gonflé et fétide comme un secret, l'odeur était déjà imprégnée de sous-entendus lorsqu'elle est arrivée à la maison trois semaines auparavant. Mais la rumeur s'est transformée en mythe et a recouvert le contenu de la chambre de Brune d'un voile de putrescence, suintant de déni. Brune y vivait, se vautrant dans la façon dont elle se mêlait au parfum de son propre corps.
 
 L’odeur émanait d'une petite morgue de plantes que Clara avait tenté de faire vivre le long d'une étroite étagère sous une rangée d'oculi près du plafond de la chambre, prévue à cet effet. La lumière du soleil pénétrait dans un rose et un orange chauds, brûlant une rangée de soleils déformés sur le mur du fond. Il était exaspérément représentatif de Clara de voir et d'agir avec beauté sur la torpeur de Brune. Un cactus à peine survivant, sa fleur grise et fanée, une ligne pendante de lierre desséché, une fougère en dentelle fanée incrustée sur le bord d'un pot, une frange de patate douce molle, un noyau d'avocat maintenant pourri et moulé, collé avec trois cure-dents et posé délicatement sur un bocal, ainsi qu'une fleur en papier fabriquée avec du vieux papier journal, étaient disposés de manière stylisée au milieu d'un sanctuaire d'ordures que Brune n'avait tout simplement pas su jeter. 
