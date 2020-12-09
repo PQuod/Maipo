@@ -69,5 +69,5 @@ Elle a cliqué sur le lien pour télécharger et installer OS θ.
 
 Brune a regardé un moment sa pierre de compagnie avec une colère noire avant de la jeter contre le mur. Elle avait déjà supprimé toutes ses photos et ses applications lors de la dernière mise à jour. Son téléphone était une tombe volée, un cadre de voiture vide au milieu d'un champ. Elle avait finalement atteint un point d'obsolescence auquel elle ne pouvait plus recourir. Brune, son téléphone, était irrévocablement incompatible avec le monde.
 
-[Chapitre 2](/glyphmachine-2.html)  
-[Chapitre 1](/glyphmachine-1.html)
+[Chapitre 2](/glyphmachine-2)  
+[Chapitre 1](/glyphmachine-1)
