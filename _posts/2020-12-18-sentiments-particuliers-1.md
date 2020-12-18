@@ -94,7 +94,7 @@ de compte de savoir qui ou quoi
 
 *
 
-COMMENT DEPUIS LE BALCON TU  
+COMMENT DEPUIS LE BALCON tu  
 regardes un nuage se faire  
 sans qu’il ait à le décider  
 ni même à se faire à l’idée  
