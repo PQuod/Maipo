@@ -6,8 +6,6 @@ categories: Desaubliaux_Lucie
 ---
 *Texte de recherche à propos du travail de l'artiste Marie-Laure Gucciardi. (Des petits bouts de ses recherches sont visibles [ici](https://vimeo.com/user8869506), le reste est à chercher dans l'infra-mince.)*
 
-## Ça ressemble à du faux II
-
 Je finis très peu. J’entame des choses qui ne restent que des milieux. Je voue un culte aux processus inachevables. Le problème quand on ne finit pas, quand on ne s’offre pas le luxe d’un brin de photogénie, c’est qu’il n’y a rien à montrer. Il faut trouver des moyens de documenter le processus, pour qu'on s'attache à le regarder, lui, sans attendre de voir où il mène – s'il mène bien quelque part.
 
 ***
@@ -308,7 +306,7 @@ Marie-Laure rit du sérieux avec un sérieux exemplaire. Marie-Laure rit de tout
 
 ***
 
-*Je suis très heureuse d’avoir écris ta nouvelle pièce.*
+*Je suis très heureuse d’avoir écrit ta nouvelle pièce.*
 
 <br>
 <br>
