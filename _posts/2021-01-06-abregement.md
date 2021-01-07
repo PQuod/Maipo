@@ -9,7 +9,7 @@ categories: Garnier-Wenisch_Robin
 
 *C'est pas banal de commencer par le troisième chapitre, mais c'est celui qui me convient le plus pour le moment. L'ensemble parlera de l'Abrègement, un lieu fictif qui n'existe que dans les souvenirs d'une poignée de personnes précieuses à mes yeux. Je suis dessus en ce moment et disons que mettre ce chapitre ici c'est une façon d'officialiser un travail en cours, comme la pause d'un devis en quelque sorte.*
 
-C’est une petite main, une petite main potelée toute rose et tendre, pleine de vernis qui vient de s’agripper à ton index et l’a élu comme point d’ancrage parental. Tu te sens con parce que tu ne pensais pas que tu serais ému comme ça.
+C’est une petite main, une petite main potelée toute rose et tendre, pleine de vernix qui vient de s’agripper à ton index et l’a élu comme point d’ancrage parental. Tu te sens con parce que tu ne pensais pas que tu serais ému comme ça.
 
 Non, c’est pas ça...
 
