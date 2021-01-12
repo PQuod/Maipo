@@ -11,7 +11,8 @@ title: Archives
               {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
               {% if year == "2021" %}
                 {% capture month %}{{post.date | date: "%B"}}{% endcapture %}
-                {% if month == "January" or month == "February" or month=="March" %}        
+                {% if month == "January" or month == "February" or month=="March" %} 
+                {% assign total = total | plus: 1 %}
                       <tr class="row-archives">
                         <td>
                           <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 50 | escape }}</a>
@@ -23,6 +24,7 @@ title: Archives
                  {% endif %}
               {% endif %}
              {% endfor %}
+          {{ total }}
         </table>
     
     <div class="line"></div> 
