@@ -33,7 +33,7 @@ La bande qui s'enroulait autour du sommet de la tête du robot semblait clignote
 
 Le robot se mit à vrombir et se dirigea vers l'un des kiosques. Il l'a regardé avec impatience.
 
-"Cher client, veuillez me rejoindre ici. Un de nos représentants du service clientèle serait heureux de discuter avec vous via cette interface."
+« Cher client, veuillez me rejoindre ici. Un de nos représentants du service clientèle serait heureux de discuter avec vous via cette interface. »
 
 Brune est allée vers le kiosque pour trouver un visage humain étrange qui la regardait fixement. Il clignait des yeux, souriait et, de temps en temps, se penchait la tête comme s'il se préparait à écouter. Sa ressemblance avec un vrai visage humain était presque terrifiante, comme s'il était tombé entre deux mystères métaphysiques qui séparaient l'homme de la machine. Il parlait.
 
@@ -72,6 +72,6 @@ Brune a levé les yeux vers un reflet imprécis d'elle-même vacillant dans un �
 
 Brune s'est retourné et est sorti de la banque. « Au revoir, cher client, et bonne journée » sonnait derrière elle un étrange duo humain-machine en partant.
 
-[Chapitre 3](/glyphmachine-3.html)
+[Chapitre 3](/glyphmachine-3.html)  
 [Chapitre 2](/glyphmachine-2.html)  
 [Chapitre 1](/glyphmachine-1.html)
