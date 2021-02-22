@@ -39,4 +39,4 @@ le notre
 
 ***
 
-*TRYPPS (licriture)*, Poem à 3 d'après deux captures d'écran de *TRYPPS #7 (BADLANDS)* de Ben Russell [https://vimeo.com/29406623](https://vimeo.com/29406623), Maude Faure, Axelle Carruzzo et Annie Abrahams.
+*TRYPPS (licriture)*, Poem à 3 d'après deux captures d'écran de *TRYPPS #7 (BADLANDS)* de Ben Russell [https://vimeo.com/29406623]((https://vimeo.com/29406623)), Maude Faure, Axelle Carruzzo et Annie Abrahams.
