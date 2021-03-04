@@ -6,7 +6,7 @@ categories: Labor_Soto
 ---
 
 Si ton chemin sinue, c’est qu’il t’aime.  
-Nous ajoutons: entre les nerfs et le cœur, le défi est de croire sans vision.
+Nous ajoutons : entre les nerfs et le cœur, le défi est de croire sans vision.
 
 Nous les vers, avançons sans yeux  
 mais on suce,  
