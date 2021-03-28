@@ -2,7 +2,7 @@
 layout: post
 title: "Le tour des pistes #1"
 date: 2020-09-23
-categories: Labrousse_Candice
+categories: L_C
 ---
 
 *Il y en a qui font le tour de France, s’arrêtent dans une ville quelques jours pour en découvrir ses richesses, puis partent à la rencontre d’une autre. Jusqu’à une période avancée de mon existence, je quittais ma ville natale uniquement pour faire des déplacements sportifs. Mes week-ends étaient occupés à « me rendre dans une ville, trouver sa piste d’athlétisme, en faire le tour plusieurs fois et repartir ». J’ai arpenté la France, mais je n’en ai vu que les pistes d’athlétisme. Je vous propose un récit autobiographique sous la forme d’un tour de France des pistes que j’ai foulées. Le voyage se fera en neuf étapes et un épilogue, ne respectera aucune chronologie, aucune rigueur scientifique ou typologique, et ne se refusera pas de digresser.*
