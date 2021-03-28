@@ -2,7 +2,7 @@
 layout: post
 title: "La liste des mots que je n'arrive toujours pas à orthographier"
 date: 2020-06-03
-categories: Labrousse_Candice
+categories: L_C
 ---
 
 - SAYNÈTE
