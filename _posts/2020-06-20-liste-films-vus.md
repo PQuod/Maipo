@@ -2,7 +2,7 @@
 layout: post
 title: "La liste des films vus au cinéma depuis octobre 2013"
 date: 2020-06-20
-categories: Labrousse_Candice
+categories: L_C
 ---
 
 - LA VIE D’ADÈLE
