@@ -72,6 +72,6 @@ il dit que c’était sa meuf
 qu’elle est tunisienne et qu’elle est bonne  
 il me montre sa photo insta  
 je dis que je ne vois pas sa meuf  
-mais une superposition de filtres
-il est surpris
+mais une superposition de filtres  
+il est surpris  
 au second plan XX rient
