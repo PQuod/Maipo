@@ -91,7 +91,7 @@ title: Archives
     {% if month == "July" or month == "August" or month=="September" %}        
        <tr class="row-archives">
                         <td>
-                          <a class="a-archives" href="{{ post.url | relative_url }}"><span class="post-title">{{ post.title | | truncate: 50 | escape }}</span></a>
+                          <a class="a-archives" href="{{ post.url | relative_url }}"><span class="post-title">{{ post.title | | truncate: 40 | escape }}</span></a>
                         </td>
                         <td class="date-cat">
                         <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}<span>
@@ -113,7 +113,7 @@ title: Archives
     {% if month == "June" or month == "April" or month=="May" %}        
         <tr class="row-archives">
                         <td>
-                          <a class="a-archives" href="{{ post.url | relative_url }}"><span class="post-title">{{ post.title | | truncate: 50 | escape }}</span></a>
+                          <a class="a-archives" href="{{ post.url | relative_url }}"><span class="post-title">{{ post.title | | truncate: 40 | escape }}</span></a>
                         </td>
                         <td class="date-cat">
                           <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
