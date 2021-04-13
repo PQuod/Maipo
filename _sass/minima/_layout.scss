@@ -182,7 +182,7 @@ text-align:right;
   .p-author{
     position:relative;
     float:right;
-      min-height:calc(var(--line-height)*3);
+     
   }
 
   .p-author a{
@@ -190,8 +190,12 @@ text-align:right;
     font-family:sans-serif;
   }
 
+.post-footer{
+    min-height:calc(var(--line-height)*3);
+}
 
-  .post-footer h3{
+.post-meta{
+    line-height:var(--line-height);
     font-weight:normal;
     font-size:var(--font-size);
   }
