@@ -106,10 +106,6 @@ li{
 list-style-type: none;
 }
 
-td{
-  font-size:var(--font-size);
-}
-
 .text-content li:before {
   content: "- "; 
 }
