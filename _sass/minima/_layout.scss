@@ -179,11 +179,10 @@ text-align:right;
      margin-bottom:var(--line-height);
   }
 
-
   .p-author{
     position:relative;
     float:right;
-
+      min-height:calc(var(--line-height)*3);
   }
 
   .p-author a{
@@ -195,7 +194,6 @@ text-align:right;
   .post-footer h3{
     font-weight:normal;
     font-size:var(--font-size);
-
   }
 
   .post-line-footer{
