@@ -13,7 +13,7 @@ layout: default
 
       <div class="apercu-post" role="list">
         <a class="a-nu" href="{{ post.url | relative_url }}" role="listitem">
-             <h2 class="post-title">{{ post.title | escape }} <br>  </h2>
+             <span class="post-title">{{ post.title | escape }} <br>  </span>
         </a>     
         <span class="post-author">
           {%for item in post.categories%}
