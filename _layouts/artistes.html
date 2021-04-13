@@ -6,8 +6,9 @@ layout: single
 		{%assign sorted_cats = site.categories | sort %}
 				{% for category in sorted_cats %}
 		<a class="a-bloc" href="../category/{{ category[0] | slugify }}">
+				<span class="post-title">
 				{% assign my_array = category[0] | split: "_" %}
-				{{my_array | reverse | join: " "}}</a>
+					{{my_array | reverse | join: " "}}</span></a>
 			&#10039;
 		{% endfor %}
 </div>
