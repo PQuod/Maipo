@@ -15,7 +15,7 @@ title: Archives
                 {% if month == "April" or month == "May" or month=="June" %}        
                       <tr class="row-archives">
                         <td>
-                          <a class="a-archives" href="{{ post.url | relative_url }}">{{ post.title | | truncate: 50 | escape }}</a>
+                          <a class="a-archives" href="{{ post.url | relative_url }}"><span class="post-title">{{ post.title | | truncate: 50 | escape }}</span></a>
                         </td>
                         <td class="date-archives">
                           <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
