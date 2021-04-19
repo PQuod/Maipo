@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIRRORPOEMESPELHO (reariting)"
+title: "MIRRORPOEMESPELHO"
 date: 2021-03-31
 categories: Abrahams_Annie
 colab: Ana Vargas, Andreia Fraga, Beatriz Filomeno, Carolina Santos, Claire Binyon, Daniel Pinheiro, Francisco Almeida, Inês Vicente, Jordann Santos, Lúcia Lopes, Susana Lamarão
