@@ -14,7 +14,14 @@ layout: page
     {% for post in site.categories[page.category] %}
     <tr class="row-cat">
                         <td>
-                          <a class="a-cat" href="{{ post.url | relative_url }}"><span class="post-title">{{ post.title | truncate: 40 | escape }}</span></a>
+                          <a class="a-cat" href="{{ post.url | relative_url }}">
+                           <span class="post-title">
+                           {% if post.title == "MIRRORPOEMESPELHO (reariting)" %}
+                            {{ post.title | | truncate: 15 | escape }}
+                            {% else %}
+                            {{ post.title | | truncate: 30 | escape }}
+                            {% endif %}
+                           </span></a>
                         </td>
                         <td class="date-cat">
                          <span>&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</span>
