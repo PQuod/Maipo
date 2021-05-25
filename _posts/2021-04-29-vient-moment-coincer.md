@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Viens toujours le moment où ça finit par coincer"
+title: "Vient toujours le moment où ça finit par coincer"
 date: 2021-04-29
 categories: Garnier-Wenisch_Robin
 ---
 
-Viens toujours le moment où ça finit par coincer. On a beau le savoir parce qu’on l’a déjà éprouvé par le passé à plusieurs reprises et de plusieurs façons, ça ne loupe jamais on finit toujours par se laisser surprendre par ce coincement.
+Vient toujours le moment où ça finit par coincer. On a beau le savoir parce qu’on l’a déjà éprouvé par le passé à plusieurs reprises et de plusieurs façons, ça ne loupe jamais on finit toujours par se laisser surprendre par ce coincement.
 
 Le moment où ça finit par coincer est un moment étiré dans le temps, c’est une frontière de cellophane dans laquelle le corps et l’esprit se coincent ensemble, c’est du papier tue-mouche, mais pour les humain·e·s : c’est donc du papier tue-humain·e·s,  
 du papier tue-main·e·s,  
